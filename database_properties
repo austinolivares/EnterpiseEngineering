@@ -1,0 +1,4 @@
+#mysql DB properties
+MYSQL_DB_URL=jdbc:mysql://easel2.fulgentcorp.com:3306/xzk795
+MYSQL_DB_USERNAME=xzk795
+MYSQL_DB_PASSWORD=retro13

@@ -1,0 +1,1588 @@
+16:12:23.906 DEBUG assignment1.MenuController : Author List View selected from menu bar.
+16:12:29.916 DEBUG assignment1.MenuController : Quit from menu bar.
+16:40:54.894 DEBUG assignment1.MenuController : Author List View selected from menu bar.
+16:40:57.139 DEBUG assignment1.MenuController : Quit from menu bar.
+17:10:31.390 INFO  assignment1.AuthorDetailController : Model saved: Ragnar Red
+17:10:32.198 INFO  assignment1.AuthorDetailController : Model saved: Ragnar Red
+17:10:32.716 INFO  assignment1.AuthorDetailController : Model saved: Ragnar Red
+17:10:32.959 INFO  assignment1.AuthorDetailController : Model saved: Ragnar Red
+17:10:33.574 INFO  assignment1.AuthorDetailController : Model saved: Ragnar Red
+17:12:02.941 INFO  assignment1.AuthorDetailController : Model saved: Ragnar Red
+17:25:00.836 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:25:45.551 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:26:02.861 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:26:10.898 INFO  assignment1.AuthorDetailController : Model saved: Shirley Jackson
+17:28:49.358 INFO  assignment1.AuthorListController : Doug Coupland clicked
+17:30:07.861 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:30:11.425 DEBUG assignment1.MenuController : Author List View selected from menu bar.
+17:30:40.422 DEBUG assignment1.MenuController : Author List View selected from menu bar.
+17:30:41.232 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:30:42.726 DEBUG assignment1.MenuController : Quit from menu bar.
+17:32:10.516 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:32:42.320 DEBUG assignment1.MenuController : Quit from menu bar.
+17:34:46.185 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:43:41.590 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+17:43:45.643 DEBUG assignment1.MenuController : Quit from menu bar.
+17:46:51.307 INFO  assignment1.MenuController : Author List View selected from menu bar.
+17:46:52.862 INFO  assignment1.MenuController : Quit from menu bar.
+17:56:45.595 INFO  assignment1.AuthorListController : Shirley Jackson clicked
+18:06:03.835 INFO  assignment1.MenuController : Author List View selected from menu bar.
+18:28:41.227 INFO  assignment1.MenuController : Quit from menu bar.
+18:29:16.985 INFO  assignment1.MenuController : Author List View selected from menu bar.
+18:31:21.972 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:31:25.472 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:31:25.631 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:31:27.295 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:31:27.656 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:32:03.136 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:32:04.395 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:33:09.589 INFO  assignment1.MenuController : Author List View selected from menu bar.
+18:33:10.862 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:33:11.813 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:33:12.961 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:33:53.522 ERROR assignment1.AuthorListController : Author selected is invalid/null!
+18:41:44.541 INFO  assignment1.AuthorListController : Doug Coupland clicked
+18:41:50.305 INFO  assignment1.MenuController : Quit from menu bar.
+18:44:47.980 INFO  assignment1.AuthorListController : Shirley Jackson clicked.
+18:44:51.677 INFO  assignment1.MenuController : Author List View selected from menu bar.
+18:51:36.972 INFO  assignment1.AuthorListController : Doug Coupland clicked.
+18:54:19.502 INFO  assignment1.AuthorListController : Shirley Jackson clicked.
+18:54:22.665 INFO  assignment1.MenuController : Author List View selected from menu bar.
+18:54:24.830 INFO  assignment1.AuthorListController : Doug Coupland clicked.
+18:54:30.602 INFO  assignment1.MenuController : Quit from menu bar.
+18:54:37.321 INFO  assignment1.AuthorListController : Shirley Jackson clicked.
+18:57:14.117 INFO  assignment1.AuthorListController : Shirley Jackson clicked.
+18:57:18.386 INFO  assignment1.MenuController : Author List View selected from menu bar.
+18:57:19.376 INFO  assignment1.AuthorListController : Doug Coupland clicked.
+18:57:23.528 INFO  assignment1.AuthorDetailController : Model saved: Doug Coupland
+18:57:24.331 INFO  assignment1.AuthorDetailController : Model saved: Doug Coupland
+18:57:25.090 INFO  assignment1.AuthorDetailController : Model saved: Doug Coupland
+18:57:26.742 INFO  assignment1.MenuController : Quit from menu bar.
+13:00:40.271 INFO  controller.AuthorListController : Shirley Jackson clicked.
+13:00:57.162 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+13:00:59.019 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+13:30:43.002 INFO  controller.AuthorListController : Shirley Jackson clicked.
+13:56:55.754 INFO  controller.AuthorListController : Shirley Jackson clicked.
+14:02:46.332 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:04:15.183 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:05:59.599 INFO  controller.AuthorListController : Douglas Coupland clicked.
+15:12:09.407 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:21:18.327 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:21:18.443 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:21:21.060 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:21:21.256 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:22:15.337 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:22:15.511 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:22:16.615 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:22:16.798 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:22:40.663 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:22:55.230 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:22:55.380 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:23:16.055 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:23:44.823 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:23:44.967 ERROR controller.AuthorListController : Author selected is invalid/null!
+15:24:16.719 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:25:09.309 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:25:20.923 INFO  controller.MenuController : Author List View selected from menu bar.
+15:25:22.844 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:25:29.582 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:25:32.347 INFO  controller.MenuController : Author List View selected from menu bar.
+15:25:34.131 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:26:08.875 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:34:28.306 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:37:57.418 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:39:45.490 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:40:57.835 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:41:03.540 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:41:08.874 INFO  controller.MenuController : Author List View selected from menu bar.
+15:42:43.768 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:42:49.171 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:42:54.689 INFO  controller.MenuController : Author List View selected from menu bar.
+15:47:02.701 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:47:20.212 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:47:23.649 INFO  controller.MenuController : Author List View selected from menu bar.
+15:47:49.059 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:47:54.143 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:47:56.441 INFO  controller.MenuController : Author List View selected from menu bar.
+15:47:57.401 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:48:01.253 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:48:02.821 INFO  controller.MenuController : Author List View selected from menu bar.
+15:48:03.804 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:48:06.038 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:48:07.490 INFO  controller.MenuController : Author List View selected from menu bar.
+15:48:08.519 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:57:57.108 INFO  controller.AuthorListController : Shirley Jackson clicked.
+15:58:01.783 INFO  controller.AuthorDetailController : Model saved: Shirley Jackson
+15:58:05.116 INFO  controller.MenuController : Author List View selected from menu bar.
+16:22:01.754 INFO  controller.AuthorListController : Shirley Jackson clicked.
+16:22:03.592 INFO  controller.AuthorDetailController : Model saved: Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/
+16:22:27.566 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+16:22:33.841 INFO  controller.AuthorDetailController : Model saved: Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/
+16:34:15.234 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+16:34:17.323 INFO  controller.AuthorDetailController : Model saved: Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/
+16:34:24.108 INFO  controller.AuthorDetailController : Model saved: Author: 1 Shirley  2016-11-03 F http://shirleyjackson.org/
+16:36:28.288 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+16:36:55.404 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+16:39:09.706 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+16:39:10.980 INFO  model.Author : Model saved: Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/
+16:39:47.281 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+16:39:48.990 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/
+16:39:53.247 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/
+16:39:57.936 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-16 M https://www.coupland.com/
+16:41:26.820 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+16:41:30.578 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/
+16:41:38.026 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/
+16:41:41.496 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/
+16:41:42.910 INFO  controller.MenuController : Author List View selected from menu bar.
+16:41:49.860 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+16:41:52.962 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/
+16:41:54.742 INFO  controller.MenuController : Author List View selected from menu bar.
+16:44:44.842 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+16:44:51.159 INFO  model.Author : Model saved: Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/
+16:44:53.935 INFO  controller.MenuController : Author List View selected from menu bar.
+16:46:16.002 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+16:46:31.111 INFO  model.Author : Model saved: Author: 2 Douglas Couoop 1961-11-06 M https://www.coupland.com/
+16:46:35.567 INFO  controller.MenuController : Author List View selected from menu bar.
+16:46:37.085 INFO  controller.AuthorListController : Author: 2 Douglas Couoop 1961-11-06 M https://www.coupland.com/ clicked.
+16:46:40.121 INFO  model.Author : Model saved: Author: 2 Douglas Couoop 1961-11-06 M https://www.coupland.com/
+16:46:44.730 INFO  model.Author : Model saved: Author: 2 Douglas Couoop 1961-11-06 M https://www.coupland.com/
+16:46:50.951 INFO  model.Author : Model saved: Author: 2 Douglas sa 1961-11-06 M https://www.coupland.com/
+16:49:44.467 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+16:49:48.823 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 F https://www.coupland.com/
+16:49:55.968 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-11-06 U https://www.coupland.com/
+16:50:02.919 INFO  model.Author : Model saved: Author: 2 Douglas k 1961-11-06 U https://www.coupland.com/
+16:50:05.669 INFO  controller.MenuController : Author List View selected from menu bar.
+17:08:11.685 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+17:08:18.708 INFO  model.Author : Model saved: Author: 1 Shirley Jackson 1916-11-03 F http://shirleyjackson.org/
+17:08:25.083 INFO  controller.MenuController : Author List View selected from menu bar.
+17:11:02.585 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 2016-11-03 F http://shirleyjackson.org/ clicked.
+17:11:08.443 INFO  model.Author : Model saved: Author: 1 Shirley Jackson 1916-11-03 F http://shirleyjackson.org/
+17:13:27.234 INFO  controller.AuthorListController : Author: 2 Doug Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+17:13:34.087 INFO  model.Author : Model saved: Author: 2 Doug Coupland 1961-11-06 F https://www.coupland.com/
+17:13:37.836 INFO  controller.MenuController : Author List View selected from menu bar.
+17:13:44.129 INFO  controller.AuthorListController : Author: 2 Doug Coupland 1961-10-01 F https://www.coupland.com/ clicked.
+17:13:55.896 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-12-01 M https://www.coupland.com/
+17:14:05.319 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-05 M https://www.coupland.com/ clicked.
+17:14:13.810 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/
+17:14:15.194 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/
+17:14:16.449 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/
+17:14:20.599 INFO  controller.MenuController : Author List View selected from menu bar.
+17:14:30.266 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+17:14:39.733 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-01-01 M https://www.coupland.com/
+17:17:51.487 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-11-06 M https://www.coupland.com/ clicked.
+17:19:45.505 INFO  controller.AuthorListController : Author: 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+17:19:47.750 INFO  model.Author : Model saved: Author: 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/
+17:19:52.835 INFO  controller.MenuController : Author List View selected from menu bar.
+17:20:14.017 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 1916-11-03 F http://shirleyjackson.org/ clicked.
+17:20:19.095 INFO  model.Author : Model saved: Author: 1 Shirley Jackson 1916-12-14 F http://shirleyjackson.org/
+17:20:25.258 INFO  controller.MenuController : Author List View selected from menu bar.
+17:32:19.194 INFO  controller.AuthorListController : Author: 1 Shirley Jackson 1916-12-14 F http://shirleyjackson.org/ clicked.
+17:34:51.698 INFO  controller.AuthorListController : Author: 1 Shirley Jackson clicked.
+17:35:11.874 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:45:11.930 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:46:22.510 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:46:26.670 ERROR model.Author : Invalid data input
+17:46:47.183 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:46:51.677 ERROR model.Author : Invalid data input for 1 Shirley 
+17:47:38.441 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:47:42.810 ERROR model.Author : Invalid data input for 1 Shirley 
+17:47:51.328 ERROR model.Author : Invalid data input for 1 Shirley 
+17:48:05.878 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:48:10.553 ERROR model.Author : Invalid data input for 1 Shirley 
+17:48:13.315 INFO  controller.MenuController : Author List View selected from menu bar.
+17:48:14.729 INFO  controller.AuthorListController : 1 Shirley  clicked.
+17:50:04.052 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:50:08.279 ERROR model.Author : Invalid data input for 1 Shirley 
+17:50:11.696 INFO  controller.MenuController : Author List View selected from menu bar.
+17:51:01.166 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:51:05.665 ERROR model.Author : Invalid data input for 1 Shirley 
+17:51:09.098 INFO  controller.MenuController : Author List View selected from menu bar.
+17:52:36.131 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:52:40.779 ERROR model.Author : Invalid data input for 1 Shirley 
+17:52:44.326 INFO  controller.MenuController : Author List View selected from menu bar.
+17:52:45.629 INFO  controller.AuthorListController : 1 Shirley  clicked.
+17:53:27.908 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:53:31.503 ERROR model.Author : Invalid data input for 1 Shirley 
+17:53:35.153 INFO  controller.MenuController : Author List View selected from menu bar.
+17:53:36.425 INFO  controller.AuthorListController : 1 Shirley  clicked.
+17:56:36.390 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+17:56:44.064 ERROR model.Author : Invalid data input for 1 Shirley 
+17:56:47.326 INFO  controller.MenuController : Author List View selected from menu bar.
+19:45:21.160 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:45:26.713 INFO  model.Author : Model saved: 1 Shirley Jackson
+19:45:34.996 ERROR model.Author : Invalid data input for 1 Shirley 
+19:46:00.891 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:46:08.632 ERROR model.Author : Invalid data input for 1 Shirley 
+19:46:12.223 ERROR model.Author : Invalid data input for 1 Shirley 
+19:46:30.857 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+19:46:36.012 ERROR model.Author : Invalid data input for 2 Douglas 
+19:48:13.891 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:48:21.040 ERROR model.Author : Invalid data input for 1 Shirley 
+19:48:31.141 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:48:36.816 ERROR model.Author : Invalid data input for 1  Jackson
+19:48:43.565 ERROR model.Author : Invalid data input for 1  Jackson
+19:48:47.378 INFO  controller.MenuController : Author List View selected from menu bar.
+19:51:38.146 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+19:51:43.329 ERROR model.Author : Invalid data input for 0 null null
+19:51:51.621 INFO  model.Author : Model saved: 2 Douglas Coupland
+19:51:56.467 INFO  model.Author : Model saved: 2 Douglas Coupland
+19:52:04.057 ERROR model.Author : Invalid data input for 0 null null
+19:52:14.557 INFO  model.Author : Model saved: 2 Douglas Coupland
+19:52:22.022 INFO  model.Author : Model saved: 2 Douglas Coupland
+19:52:24.325 INFO  controller.MenuController : Author List View selected from menu bar.
+19:52:26.103 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+19:52:34.225 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+19:53:25.434 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:53:31.968 ERROR model.Author : Invalid data input for 1 Shirley 
+19:53:48.691 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:53:52.929 ERROR model.Author : Invalid data input for 1 Shirley 
+19:53:57.679 ERROR model.Author : Invalid data input for 1 Shirley 
+19:54:03.672 INFO  controller.MenuController : Author List View selected from menu bar.
+19:54:04.755 INFO  controller.AuthorListController : 1 Shirley  clicked.
+19:54:49.357 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:55:04.766 INFO  model.Author : Model saved: 1 Shirley Jackson
+19:55:10.480 INFO  model.Author : Model saved: 1 Shirley a
+19:55:14.699 ERROR model.Author : Invalid data input for 1 Shirley 
+19:55:19.738 ERROR model.Author : Invalid data input for 1 Shirley 
+19:55:21.712 INFO  controller.MenuController : Author List View selected from menu bar.
+19:55:23.982 INFO  controller.AuthorListController : 1 Shirley  clicked.
+19:55:53.410 INFO  controller.AuthorListController : 1 Shirley a clicked.
+19:55:59.636 INFO  model.Author : Model saved: 1 Shirley Jackson
+19:56:04.905 ERROR model.Author : Invalid data input for 1 Shirley 
+19:56:08.221 INFO  controller.MenuController : Author List View selected from menu bar.
+19:56:16.087 INFO  controller.MenuController : Quit from menu bar.
+19:57:20.778 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:57:24.802 ERROR model.Author : Invalid data input for 1  Jackson
+19:57:29.149 INFO  controller.MenuController : Author List View selected from menu bar.
+19:57:31.127 INFO  controller.AuthorListController : 1  Jackson clicked.
+19:58:52.767 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+19:58:56.578 ERROR model.Author : Invalid data input for 1 Shirley 
+20:00:06.263 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:00:08.280 INFO  model.Author : Model saved: 1 Shirley Jackson
+20:00:14.664 INFO  model.Author : Model saved: 1 Shirley Jackson
+20:00:21.826 ERROR model.Author : Invalid data input for 1 Shirley 
+20:01:34.017 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:01:44.510 INFO  model.Author : Model saved: 1 Shirley Jackson
+20:01:51.895 INFO  model.Author : Model saved: 1 Shirley Jackson
+20:02:33.090 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:02:38.076 ERROR model.Author : Invalid data input for 1 Shirley 
+20:03:13.267 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:03:18.237 ERROR model.Author : Invalid data input for 2 Douglas 
+20:03:44.024 INFO  controller.MenuController : Author List View selected from menu bar.
+20:04:00.723 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:04:39.274 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:04:44.321 ERROR model.Author : Invalid data input for 1 Shirley 
+20:04:53.405 INFO  controller.MenuController : Author List View selected from menu bar.
+20:07:01.428 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:07:05.416 ERROR model.Author : Invalid data input for 1 Shirley 
+20:07:09.647 INFO  controller.MenuController : Author List View selected from menu bar.
+20:08:32.303 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:08:37.122 ERROR model.Author : Invalid data input for 1 Shirley 
+20:12:07.749 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:12:12.181 ERROR model.Author : Invalid data input for 1 Shirley 
+20:12:17.504 INFO  controller.MenuController : Author List View selected from menu bar.
+20:13:02.106 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:13:06.145 ERROR model.Author : Invalid data input for 1 Shirley 
+20:13:31.661 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:13:36.292 ERROR model.Author : Invalid data input for 1 Shirley 
+20:19:13.750 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:19:21.029 ERROR model.Author : Invalid data input for 2 Douglas 
+20:21:22.644 INFO  model.Author : Model saved: 2 Douglas Coupland
+20:21:22.739 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:21:26.799 ERROR model.Author : Invalid data input for 0 Douglas 
+20:21:46.999 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:22:06.667 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:22:12.590 ERROR model.Author : Invalid data input for 1 Shirley 
+20:23:17.881 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:23:22.335 ERROR model.Author : Invalid data input for 0 Shirley 
+20:24:09.949 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:24:17.420 ERROR model.Author : Invalid data input for 1 Shirley 
+20:24:24.685 INFO  controller.MenuController : Author List View selected from menu bar.
+20:24:28.042 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:25:10.026 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:25:13.824 ERROR model.Author : Invalid data input for 1 Shirley 
+20:25:19.578 INFO  controller.MenuController : Author List View selected from menu bar.
+20:25:37.224 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:25:40.528 ERROR model.Author : Invalid data input for 1 Shirley 
+20:26:54.162 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:26:58.894 ERROR model.Author : Invalid data input for 1 Shirley 
+20:28:23.401 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:28:27.357 ERROR model.Author : Invalid data input for 1 Shirley 
+20:29:25.377 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:29:29.895 ERROR model.Author : Invalid data input for 1 Shirley 
+20:29:29.897 INFO  controller.AuthorDetailController : Reset info for author: 1 Shirley Jackson
+20:30:17.014 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:30:21.586 INFO  model.Author : Model saved: 1 Shirley Jackson
+20:30:24.502 INFO  controller.MenuController : Author List View selected from menu bar.
+20:30:25.425 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:30:28.147 INFO  model.Author : Model saved: 2 Douglas Coupland
+20:30:30.565 INFO  controller.MenuController : Quit from menu bar.
+20:30:35.317 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:30:38.641 INFO  controller.MenuController : Author List View selected from menu bar.
+20:30:39.332 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:34:09.220 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:34:16.631 INFO  controller.MenuController : Author List View selected from menu bar.
+20:34:17.440 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:34:20.423 INFO  controller.MenuController : Author List View selected from menu bar.
+20:34:21.350 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:34:23.036 INFO  model.Author : Model saved: 2 Douglas Coupland
+20:34:28.039 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+20:39:08.841 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+20:39:13.989 INFO  controller.MenuController : Add author!!!
+20:39:17.210 INFO  controller.MenuController : Author List View selected from menu bar.
+20:43:24.180 INFO  model.Author : Model saved: 0 Ausdtin Olivares
+20:43:26.375 INFO  model.Author : Model saved: 0 Ausdtin Olivares
+20:43:28.660 INFO  controller.MenuController : Author List View selected from menu bar.
+20:59:53.759 INFO  model.Author : Model saved: 0 JAcob Rod
+21:00:54.558 INFO  model.Author : Model saved: 0 Jacob Rodriguez
+21:08:07.933 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:08:17.034 INFO  model.Author : Model saved: 1 Shirley Jackso
+21:08:25.489 INFO  controller.MenuController : Author List View selected from menu bar.
+21:08:26.860 INFO  controller.AuthorListController : 4 Jacob Rodriguez clicked.
+21:08:29.811 INFO  model.Author : Model saved: 4 Jacob Rodrigues
+21:09:17.171 INFO  model.Author : Model saved: 0 New Author
+21:09:17.199 INFO  database.AuthorTableGateway : New record inserted at row 5
+21:09:29.058 INFO  model.Author : Model saved: 0 New Authors
+21:09:29.061 ERROR database.AuthorTableGateway : Insert Author SQL query failed
+21:09:46.857 INFO  controller.MenuController : Author List View selected from menu bar.
+21:10:29.773 INFO  controller.AuthorListController : 5 New Author clicked.
+21:10:35.337 INFO  model.Author : Model saved: 5 New Auth
+21:10:47.744 INFO  model.Author : Model saved: 0 Bad Guy
+21:10:47.772 INFO  database.AuthorTableGateway : New record inserted at row 6
+21:10:53.840 INFO  model.Author : Model saved: 0 Bad Guy
+21:10:53.866 INFO  database.AuthorTableGateway : New record inserted at row 7
+21:12:18.768 INFO  model.Author : Model saved: 0 not author
+21:12:18.808 INFO  database.AuthorTableGateway : New record inserted at row 8
+21:12:30.186 INFO  model.Author : Model saved: 0 yes author
+21:12:31.755 INFO  model.Author : Model saved: 0 yes author
+21:12:34.691 INFO  model.Author : Model saved: 0 yes authors
+21:12:43.455 INFO  controller.AuthorDetailController : Reset info for author: 8 yes authors
+21:33:15.763 INFO  controller.AuthorListController : 1 Shirley Jackso clicked.
+21:33:20.979 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:33:24.337 INFO  controller.MenuController : Author List View selected from menu bar.
+21:33:26.734 INFO  controller.AuthorListController : 8 not author clicked.
+21:33:39.271 INFO  controller.MenuController : Author List View selected from menu bar.
+21:34:24.602 INFO  controller.AuthorListController : 8 not author clicked.
+21:36:55.064 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:39:05.339 INFO  controller.AuthorDetailController : Reset info for author: 0 null null
+21:41:16.128 INFO  model.Author : Field left blank, author not saved.
+21:44:24.907 INFO  model.Author : Field left blank, author not saved.
+21:44:24.910 ERROR controller.AuthorDetailController : Author not saved
+21:45:32.695 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:45:39.437 INFO  controller.MenuController : Author List View selected from menu bar.
+21:45:40.635 INFO  controller.AuthorListController : 2 Douglas Coupland clicked.
+21:45:44.535 INFO  controller.MenuController : Author List View selected from menu bar.
+21:45:45.724 INFO  controller.AuthorListController : 3 Austin Olivares clicked.
+21:45:49.001 INFO  model.Author : Input failed business rules
+21:45:49.002 ERROR controller.AuthorDetailController : Author not saved
+21:46:44.135 INFO  controller.AuthorDetailController : Copy reset to original model.
+21:46:44.196 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:46:57.346 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:47:02.248 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:47:05.413 INFO  controller.MenuController : Author List View selected from menu bar.
+21:47:06.932 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:47:10.917 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:47:10.919 ERROR database.AuthorTableGateway : Update Author SQL query failed
+21:47:11.290 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:47:11.291 ERROR database.AuthorTableGateway : Update Author SQL query failed
+21:48:25.675 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:48:28.847 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:48:29.255 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:48:29.742 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:48:30.526 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:48:35.895 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:48:39.400 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:48:41.848 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:55:24.052 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+21:55:27.224 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:55:27.880 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:55:28.303 INFO  model.Author : Model saved: 1 Shirley Jackson
+21:55:34.346 INFO  controller.MenuController : Author List View selected from menu bar.
+22:11:57.253 ERROR controller.MenuController : Failed to display list view
+22:11:57.256 INFO  controller.MenuController : Author List View selected from menu bar.
+22:12:00.694 ERROR controller.MenuController : Failed to display list view
+22:12:00.694 INFO  controller.MenuController : Author List View selected from menu bar.
+22:12:41.702 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+22:12:44.869 INFO  model.Author : Model saved: 1 Shirley Jackson
+22:12:45.235 INFO  model.Author : Model saved: 1 Shirley Jackson
+22:13:10.153 INFO  model.Author : Input failed business rules.
+22:13:10.154 ERROR controller.AuthorDetailController : Author not saved.
+22:13:18.672 INFO  model.Author : Field left blank.
+22:13:18.673 ERROR controller.AuthorDetailController : Author not saved.
+22:13:27.201 INFO  model.Author : Field left blank.
+22:13:27.202 ERROR controller.AuthorDetailController : Author not saved.
+22:13:57.121 INFO  model.Author : Model saved: 0 JAZZ ARTIST
+22:13:57.157 INFO  database.AuthorTableGateway : New record inserted at row 9
+22:14:04.374 INFO  model.Author : Model saved: 0 JAZZ ARTIST
+22:14:05.254 INFO  model.Author : Model saved: 0 JAZZ ARTIST
+22:14:06.471 INFO  model.Author : Model saved: 0 JAZZ ARTIST
+22:14:09.775 INFO  controller.MenuController : Author List View selected from menu bar.
+22:15:31.240 INFO  model.Author : Model saved: 0 jazzy hands
+22:15:31.275 INFO  database.AuthorTableGateway : New record inserted at row 10
+22:15:34.171 INFO  model.Author : Model saved: 0 jazzy hands
+22:15:34.882 INFO  model.Author : Model saved: 0 jazzy hands
+22:15:52.557 INFO  controller.MenuController : Author List View selected from menu bar.
+22:17:38.769 INFO  model.Author : Model saved: 0 mad dad
+22:17:38.805 INFO  database.AuthorTableGateway : New record inserted at row 11
+22:17:42.743 INFO  model.Author : Model saved: 11 mad dad
+22:17:42.772 INFO  database.AuthorTableGateway : New record inserted at row 12
+22:17:46.600 INFO  model.Author : Model saved: 12 mad dad
+22:17:46.632 INFO  database.AuthorTableGateway : New record inserted at row 13
+22:17:47.856 INFO  model.Author : Model saved: 13 mad dad
+22:17:47.891 INFO  database.AuthorTableGateway : New record inserted at row 14
+22:18:32.303 INFO  controller.MenuController : Author List View selected from menu bar.
+22:18:43.742 INFO  model.Author : Model saved: 0 gosh gree
+22:18:43.774 INFO  database.AuthorTableGateway : New record inserted at row 15
+22:18:47.294 INFO  model.Author : Model saved: 15 gosh gree
+22:18:49.182 INFO  model.Author : Model saved: 15 gosh gree
+22:18:50.326 INFO  model.Author : Model saved: 15 gosh gree
+22:18:51.566 INFO  model.Author : Model saved: 15 gosh gree
+22:18:52.806 INFO  model.Author : Model saved: 15 gosh gree
+22:19:09.321 INFO  model.Author : Model saved: 15 gosh gee
+22:19:10.303 INFO  model.Author : Model saved: 15 gosh gee
+22:23:30.524 INFO  controller.AuthorListController : 9 JAZZ ARTIST clicked.
+22:24:20.268 INFO  controller.AuthorListController : 9 JAZZ ARTIST clicked.
+22:24:24.935 INFO  controller.MenuController : Author List View selected from menu bar.
+22:24:39.632 INFO  model.Author : Model saved: 0 hands jazz
+22:24:39.667 INFO  database.AuthorTableGateway : New record inserted at row 16
+22:24:43.654 INFO  model.Author : Model saved: 16 hands jazz
+22:24:45.826 INFO  model.Author : Model saved: 16 hands jazz
+22:24:48.901 INFO  controller.MenuController : Author List View selected from menu bar.
+22:24:52.209 INFO  controller.MenuController : Quit from menu bar.
+22:32:59.044 INFO  model.Author : Model saved: 0 hater ghost
+22:32:59.077 INFO  database.AuthorTableGateway : New record inserted at row 17
+22:33:02.567 INFO  model.Author : Model saved: 17 hater ghost
+22:33:05.421 INFO  controller.MenuController : Author List View selected from menu bar.
+22:34:15.518 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+22:36:39.624 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:39.780 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:42.955 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:43.154 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:45.176 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:45.369 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:56.964 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:57.099 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:58.066 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:58.271 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:58.793 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:36:58.992 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:37:08.848 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:37:08.995 ERROR controller.AuthorListController : Author selected is invalid/null!
+22:38:39.079 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+22:45:21.960 INFO  controller.AuthorListController : 16 hands jazz clicked.
+22:45:32.346 INFO  controller.MenuController : Author List View selected from menu bar.
+22:45:37.926 INFO  controller.AuthorListController : 9 JAZZ ARTIST clicked.
+22:45:40.472 INFO  model.Author : Model saved: 9 JAZZ ARTIST
+22:45:41.593 INFO  model.Author : Model saved: 9 JAZZ ARTIST
+22:45:44.572 INFO  controller.MenuController : Author List View selected from menu bar.
+22:46:56.981 INFO  model.Author : Model saved: 0 asd ads
+22:46:57.007 INFO  database.AuthorTableGateway : New record inserted at row 18
+22:47:00.380 INFO  controller.MenuController : Author List View selected from menu bar.
+22:47:01.197 INFO  controller.AuthorListController : 18 asd ads clicked.
+22:47:02.345 INFO  controller.AuthorDetailController : Author deleted: 18 asd ads
+22:47:03.778 INFO  controller.AuthorDetailController : Author deleted: 18 asd ads
+22:47:06.372 INFO  controller.MenuController : Author List View selected from menu bar.
+22:47:18.346 INFO  model.Author : Model saved: 0 asd as
+22:47:18.401 INFO  database.AuthorTableGateway : New record inserted at row 19
+22:47:19.972 INFO  controller.AuthorDetailController : Author deleted: 0 asd as
+22:47:22.493 INFO  controller.MenuController : Author List View selected from menu bar.
+22:47:43.193 INFO  controller.MenuController : Author List View selected from menu bar.
+22:47:53.724 INFO  model.Author : Model saved: 0 fasfa fasfas
+22:47:53.777 INFO  database.AuthorTableGateway : New record inserted at row 20
+22:47:54.275 INFO  model.Author : Model saved: 20 fasfa fasfas
+22:47:55.360 INFO  controller.AuthorDetailController : Author deleted: 0 fasfa fasfas
+22:47:59.356 INFO  controller.MenuController : Author List View selected from menu bar.
+22:48:37.321 INFO  model.Author : Field left blank.
+22:48:37.324 ERROR controller.AuthorDetailController : Author not saved.
+22:50:20.178 INFO  controller.MenuController : Author List View selected from menu bar.
+22:50:30.260 INFO  model.Author : Model saved: 0 adawd awddwa
+22:50:30.294 INFO  database.AuthorTableGateway : New record inserted at row 21
+22:50:36.499 INFO  model.Author : Model saved: 0 adawd awddwa
+22:50:36.530 INFO  database.AuthorTableGateway : New record inserted at row 22
+22:50:59.103 INFO  controller.AuthorDetailController : Author deleted: 22 adawd awddwa
+22:51:01.004 INFO  controller.AuthorDetailController : Author deleted: 22 adawd awddwa
+22:51:01.628 INFO  controller.AuthorDetailController : Author deleted: 22 adawd awddwa
+22:52:06.647 INFO  database.AuthorTableGateway : New record inserted at row 23
+22:52:06.650 INFO  model.Author : Model saved: 23 ghos tee
+22:52:09.791 INFO  controller.AuthorDetailController : Author deleted: 0 ghos tee
+22:54:08.511 INFO  database.AuthorTableGateway : New record inserted at row 24
+22:54:08.514 INFO  model.Author : Model saved: 24 sf sfefe
+22:54:12.334 INFO  controller.AuthorDetailController : Author deleted: 0 null null
+22:54:18.507 INFO  controller.MenuController : Author List View selected from menu bar.
+22:54:30.659 INFO  controller.AuthorListController : 24 sf sfefe clicked.
+22:54:31.702 INFO  controller.AuthorDetailController : Author deleted: 24 sf sfefe
+22:54:38.827 INFO  controller.MenuController : Author List View selected from menu bar.
+22:54:40.387 INFO  controller.AuthorListController : 21 adawd awddwa clicked.
+22:54:41.351 INFO  controller.AuthorDetailController : Author deleted: 21 adawd awddwa
+22:54:42.860 INFO  controller.MenuController : Author List View selected from menu bar.
+22:54:44.567 INFO  controller.AuthorListController : 20 fasfa fasfas clicked.
+22:54:45.495 INFO  controller.AuthorDetailController : Author deleted: 20 fasfa fasfas
+22:54:47.049 INFO  controller.MenuController : Author List View selected from menu bar.
+22:54:47.975 INFO  controller.AuthorListController : 19 asd as clicked.
+22:54:48.959 INFO  controller.AuthorDetailController : Author deleted: 19 asd as
+22:54:50.609 INFO  controller.MenuController : Author List View selected from menu bar.
+22:55:03.909 INFO  database.AuthorTableGateway : New record inserted at row 25
+22:55:03.910 INFO  model.Author : Model saved: 25 jape jost
+22:55:06.040 INFO  controller.AuthorDetailController : Author deleted: 0 null null
+22:55:07.296 INFO  controller.AuthorDetailController : Author deleted: 0 null null
+22:55:12.001 INFO  controller.AuthorDetailController : Author deleted: 0 null null
+22:55:12.377 INFO  controller.AuthorDetailController : Author deleted: 0 null null
+22:55:14.756 INFO  controller.MenuController : Author List View selected from menu bar.
+22:55:16.905 INFO  controller.AuthorListController : 25 jape jost clicked.
+22:55:17.833 INFO  controller.AuthorDetailController : Author deleted: 25 jape jost
+22:55:21.916 INFO  controller.MenuController : Author List View selected from menu bar.
+22:55:39.112 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+22:55:46.019 INFO  controller.MenuController : Author List View selected from menu bar.
+22:55:46.833 INFO  controller.AuthorListController : 23 ghos tee clicked.
+22:55:48.940 INFO  controller.AuthorDetailController : Author deleted: 23 ghos tee
+22:55:53.798 INFO  controller.MenuController : Author List View selected from menu bar.
+22:56:07.739 INFO  database.AuthorTableGateway : New record inserted at row 26
+22:56:07.740 INFO  model.Author : Model saved: 26 jope hope
+22:56:08.926 INFO  controller.AuthorDetailController : Author deleted: 0 null null
+22:58:32.599 INFO  controller.AuthorListController : 26 jope hope clicked.
+22:58:36.032 INFO  model.Author : Input failed business rules.
+22:58:36.033 ERROR controller.AuthorDetailController : Author not saved.
+22:59:04.499 INFO  controller.MenuController : Author List View selected from menu bar.
+22:59:05.484 INFO  controller.AuthorListController : 26 jope hope clicked.
+22:59:08.560 INFO  model.Author : Input failed business rules.
+22:59:08.561 ERROR controller.AuthorDetailController : Author not saved.
+22:59:12.415 INFO  controller.AuthorDetailController : Author deleted: 26 jope hope
+22:59:15.230 INFO  controller.MenuController : Author List View selected from menu bar.
+22:59:15.272 INFO  controller.AuthorListController : 1 Shirley Jackson clicked.
+22:59:17.474 INFO  controller.MenuController : Author List View selected from menu bar.
+23:00:39.810 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+23:00:48.277 INFO  model.Author : Input failed business rules.
+23:00:48.278 ERROR controller.AuthorDetailController : Author not saved.
+23:01:02.335 INFO  controller.MenuController : Author List View selected from menu bar.
+23:01:05.463 INFO  controller.AuthorListController : 3 Austin Olivarez 1993-09-25 M austinolivares.com clicked.
+23:01:16.748 INFO  controller.MenuController : Author List View selected from menu bar.
+23:02:01.752 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+23:02:05.401 INFO  model.Author : Model saved: 3 Austin Olivarez 1993-09-25 M austinolivares.com
+23:02:06.077 INFO  model.Author : Model saved: 3 Austin Olivarez 1993-09-25 M austinolivares.com
+23:02:06.851 INFO  model.Author : Model saved: 3 Austin Olivarez 1993-09-25 M austinolivares.com
+23:02:09.869 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+23:02:14.269 INFO  controller.MenuController : Author List View selected from menu bar.
+23:03:09.406 INFO  controller.AuthorListController : 1 Shirley Jackson 1916-12-14 F http://shirleyjackson.org/ clicked.
+23:03:14.984 INFO  controller.MenuController : Quit from menu bar.
+23:07:57.851 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+23:07:59.556 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+23:08:00.648 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+23:08:11.332 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+23:08:14.026 INFO  model.Author : Input failed business rules.
+23:08:14.027 ERROR controller.AuthorDetailController : Author not saved.
+23:08:23.751 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+23:08:25.053 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+23:08:39.241 INFO  model.Author : Input failed business rules.
+23:08:39.242 ERROR controller.AuthorDetailController : Author not saved.
+23:08:54.305 INFO  model.Author : Input failed business rules.
+23:08:54.306 ERROR controller.AuthorDetailController : Author not saved.
+23:09:01.968 INFO  model.Author : Model saved: 3 Austin Olivares 2018-02-17 M austinolivares.com
+23:09:08.970 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+15:01:58.658 INFO  controller.AuthorListController : 3 Austinddddddddddd Olivares 1993-09-25 M austinolivares.com clicked.
+15:02:08.089 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+15:02:13.632 INFO  controller.MenuController : Author List View selected from menu bar.
+15:02:14.852 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+15:05:47.263 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+15:06:51.292 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+15:10:37.866 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+15:10:44.219 INFO  controller.MenuController : Add Author selected from menu bar.
+15:10:56.640 INFO  database.AuthorTableGateway : New record inserted at row 28
+15:10:56.641 INFO  model.Author : Model saved: 28 bad author 2018-01-28 M adw
+15:11:02.264 INFO  controller.MenuController : Author List View selected from menu bar.
+15:11:05.507 INFO  controller.AuthorListController : 28 bad author 2018-01-28 M adw clicked.
+15:11:11.449 INFO  controller.AuthorDetailController : Author deleted: 28 bad author 2018-01-28 M adw
+15:12:30.634 INFO  controller.MenuController : Add Author selected from menu bar.
+15:12:44.910 INFO  model.Author : Field left blank.
+15:12:44.911 ERROR controller.AuthorDetailController : Author not saved.
+15:18:23.454 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+15:18:27.851 INFO  controller.MenuController : Author List View selected from menu bar.
+15:18:29.184 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+15:19:40.486 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+15:31:24.115 INFO  controller.MenuController : Add Author selected from menu bar.
+15:32:24.610 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+15:32:29.305 INFO  controller.MenuController : Author List View selected from menu bar.
+15:32:32.131 INFO  controller.MenuController : Add Author selected from menu bar.
+15:33:14.528 INFO  controller.MenuController : Add Author selected from menu bar.
+15:33:21.979 ERROR database.AuthorTableGateway : Insert Author SQL query failed
+15:35:28.085 INFO  controller.MenuController : Add Author selected from menu bar.
+15:35:36.470 INFO  database.AuthorTableGateway : New record inserted at row 29
+15:35:36.471 INFO  model.Author : Model saved: 29 adsada dgrg 2018-01-29 M null
+15:35:40.743 INFO  controller.MenuController : Author List View selected from menu bar.
+15:35:42.342 INFO  controller.AuthorListController : 29 adsada dgrg 2018-01-29 M null clicked.
+15:35:51.244 INFO  controller.MenuController : Author List View selected from menu bar.
+15:36:18.666 INFO  controller.AuthorListController : 29 adsada dgrg 2018-01-29 M null clicked.
+15:36:46.896 INFO  controller.AuthorListController : 29 adsada dgrg 2018-01-29 M null clicked.
+15:36:48.766 INFO  controller.AuthorDetailController : Author deleted: 29 adsada dgrg 2018-01-29 M null
+15:37:10.933 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+15:37:17.502 INFO  model.Author : Input first name failed business rules.
+15:37:17.503 ERROR controller.AuthorDetailController : Author not saved.
+15:37:21.869 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+15:37:25.669 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+16:06:24.358 INFO  controller.MenuController : Add Author selected from menu bar.
+16:06:35.934 INFO  model.Author : Field left blank.
+16:06:35.935 ERROR controller.AuthorDetailController : Author not saved.
+16:06:41.758 INFO  database.AuthorTableGateway : New record inserted at row 30
+16:06:41.759 INFO  model.Author : Model saved: 30 fas fe 2018-01-28 M null
+16:06:47.361 INFO  model.Author : Model saved: 30 fas fe 2018-01-28 M swdwd
+16:06:51.216 INFO  controller.MenuController : Author List View selected from menu bar.
+16:06:56.133 INFO  controller.AuthorListController : 30 fas fe 2018-01-28 M swdwd clicked.
+16:06:57.308 INFO  controller.AuthorDetailController : Author deleted: 30 fas fe 2018-01-28 M swdwd
+16:08:58.808 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+16:09:10.935 ERROR model.Author : Input last name failed business rules.
+16:09:10.936 ERROR controller.AuthorDetailController : Author not saved.
+16:09:24.828 ERROR model.Author : Input date of birth failed business rules.
+16:09:24.829 ERROR controller.AuthorDetailController : Author not saved.
+16:11:22.364 INFO  controller.MenuController : Author List View selected from menu bar.
+16:11:24.482 INFO  controller.MenuController : Add Author selected from menu bar.
+16:11:39.669 INFO  model.Author : Field left blank.
+16:11:39.670 ERROR controller.AuthorDetailController : Author not saved.
+16:11:43.327 INFO  database.AuthorTableGateway : New record inserted at row 31
+16:11:43.328 INFO  model.Author : Model saved: 31 Austin Gon 2018-02-06 M null
+16:11:46.860 INFO  controller.MenuController : Author List View selected from menu bar.
+16:11:48.152 INFO  controller.AuthorListController : 31 Austin Gon 2018-02-06 M null clicked.
+16:11:52.597 INFO  controller.AuthorDetailController : Author deleted: 31 Austin Gon 2018-02-06 M null
+16:15:59.411 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+16:16:03.336 INFO  model.Author : Model saved: 3 Austin Olivares 1993-09-25 M austinolivares.com
+12:34:45.651 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+12:34:49.177 INFO  controller.MenuController : Quit from menu bar.
+12:34:58.627 INFO  controller.MenuController : Author List View selected from menu bar.
+12:35:02.217 INFO  controller.MenuController : Author List View selected from menu bar.
+12:35:03.828 INFO  controller.MenuController : Add Author selected from menu bar.
+12:35:05.553 INFO  controller.MenuController : Author List View selected from menu bar.
+15:42:05.322 INFO  controller.MenuController : Book List View selected from menu bar.
+15:42:05.339 ERROR controller.MenuController : Failed to display list view
+15:42:08.899 INFO  controller.MenuController : Author List View selected from menu bar.
+15:42:12.876 INFO  controller.MenuController : Book List View selected from menu bar.
+15:42:12.887 ERROR controller.MenuController : Failed to display list view
+15:42:15.148 INFO  controller.MenuController : Quit from menu bar.
+15:42:26.780 INFO  controller.MenuController : Add Author selected from menu bar.
+15:42:30.142 INFO  controller.MenuController : Author List View selected from menu bar.
+15:42:33.411 INFO  controller.MenuController : Quit from menu bar.
+15:42:41.923 INFO  controller.MenuController : Author List View selected from menu bar.
+15:42:45.351 INFO  controller.MenuController : Add Author selected from menu bar.
+15:42:47.263 INFO  controller.MenuController : Book List View selected from menu bar.
+15:42:47.279 ERROR controller.MenuController : Failed to display list view
+15:42:49.466 INFO  controller.MenuController : Add Book selected from menu bar.
+15:42:53.158 INFO  controller.MenuController : Book List View selected from menu bar.
+15:42:53.169 ERROR controller.MenuController : Failed to display list view
+15:45:22.932 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+15:45:28.220 INFO  controller.MenuController : Add Book selected from menu bar.
+15:45:34.276 INFO  controller.MenuController : Book List View selected from menu bar.
+15:45:34.290 ERROR controller.MenuController : Failed to display list view
+15:45:44.197 INFO  controller.MenuController : Author List View selected from menu bar.
+15:45:46.693 INFO  controller.MenuController : Add Author selected from menu bar.
+15:45:48.540 INFO  controller.MenuController : Book List View selected from menu bar.
+15:45:48.551 ERROR controller.MenuController : Failed to display list view
+15:45:49.742 INFO  controller.MenuController : Add Book selected from menu bar.
+15:46:27.327 INFO  controller.MenuController : Book List View selected from menu bar.
+15:46:27.344 ERROR controller.MenuController : Failed to display list view
+15:49:56.195 INFO  controller.MenuController : Book List View selected from menu bar.
+15:49:56.228 ERROR controller.MenuController : Failed to display list view
+15:50:03.196 INFO  controller.MenuController : Add Book selected from menu bar.
+15:50:05.548 INFO  controller.MenuController : Book List View selected from menu bar.
+15:50:05.561 ERROR controller.MenuController : Failed to display list view
+15:51:12.683 INFO  controller.MenuController : Book List View selected from menu bar.
+15:51:12.700 ERROR controller.MenuController : Failed to display list view
+15:51:14.902 INFO  controller.MenuController : Add Book selected from menu bar.
+15:53:35.056 INFO  controller.MenuController : Book List View selected from menu bar.
+15:53:35.071 ERROR controller.MenuController : Failed to display list view
+15:58:39.594 INFO  controller.MenuController : Book List View selected from menu bar.
+15:58:39.611 ERROR controller.MenuController : Failed to display list view
+15:59:56.034 INFO  controller.MenuController : Add Book selected from menu bar.
+16:00:40.921 INFO  database.BookTableGateway : New record inserted at row 1
+16:00:40.922 INFO  book.Book : Model saved: book.Book@5f9f8c6f
+16:00:56.751 INFO  controller.MenuController : Author List View selected from menu bar.
+16:00:58.576 INFO  controller.MenuController : Book List View selected from menu bar.
+16:00:58.606 ERROR database.PublisherTableGateway : Update Book SQL query failed
+16:02:02.347 INFO  controller.MenuController : Book List View selected from menu bar.
+16:02:02.362 ERROR database.PublisherTableGateway : Update Book SQL query failed
+16:03:07.125 INFO  controller.MenuController : Book List View selected from menu bar.
+16:03:07.153 ERROR database.PublisherTableGateway : Update Book SQL query failed
+16:09:21.186 INFO  controller.MenuController : Book List View selected from menu bar.
+16:09:21.201 ERROR database.PublisherTableGateway : Update Book SQL query failed
+16:10:36.794 INFO  controller.MenuController : Book List View selected from menu bar.
+16:10:36.820 ERROR database.PublisherTableGateway : Update Book SQL query failed
+16:11:54.327 INFO  controller.MenuController : Book List View selected from menu bar.
+16:11:54.351 ERROR database.PublisherTableGateway : Update Book SQL query failed
+16:16:52.543 INFO  controller.MenuController : Book List View selected from menu bar.
+16:16:52.571 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:17:26.337 INFO  controller.MenuController : Book List View selected from menu bar.
+16:17:26.375 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:22:17.077 INFO  controller.MenuController : Book List View selected from menu bar.
+16:22:17.115 ERROR controller.MenuController : Failed to display list view
+16:22:20.573 INFO  controller.MenuController : Book List View selected from menu bar.
+16:22:20.589 ERROR controller.MenuController : Failed to display list view
+16:22:23.246 INFO  controller.MenuController : Add Book selected from menu bar.
+16:23:23.682 INFO  controller.MenuController : Add Book selected from menu bar.
+16:26:25.863 INFO  controller.MenuController : Book List View selected from menu bar.
+16:26:25.896 ERROR controller.MenuController : Failed to display list view
+16:27:11.724 INFO  controller.MenuController : Book List View selected from menu bar.
+16:27:11.749 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:28:10.997 INFO  controller.MenuController : Book List View selected from menu bar.
+16:28:11.027 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:28:44.593 INFO  controller.MenuController : Book List View selected from menu bar.
+16:28:44.624 ERROR controller.MenuController : Failed to display list view
+16:30:14.236 INFO  controller.MenuController : Book List View selected from menu bar.
+16:30:14.269 ERROR controller.MenuController : Failed to display list view
+16:30:31.731 INFO  controller.MenuController : Book List View selected from menu bar.
+16:30:31.762 ERROR controller.MenuController : Failed to display list view
+16:31:14.947 INFO  controller.MenuController : Book List View selected from menu bar.
+16:31:14.972 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:31:46.669 INFO  controller.MenuController : Book List View selected from menu bar.
+16:31:46.695 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:36:29.444 INFO  controller.MenuController : Book List View selected from menu bar.
+16:36:29.468 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:36:52.214 INFO  controller.MenuController : Book List View selected from menu bar.
+16:36:52.250 ERROR controller.MenuController : Failed to display list view
+16:38:04.007 INFO  controller.MenuController : Book List View selected from menu bar.
+16:38:04.036 ERROR controller.MenuController : Failed to display list view
+16:38:08.146 INFO  controller.MenuController : Add Book selected from menu bar.
+16:39:04.634 INFO  controller.MenuController : Book List View selected from menu bar.
+16:39:04.666 ERROR controller.MenuController : Failed to display list view
+16:41:06.665 INFO  controller.MenuController : Book List View selected from menu bar.
+16:41:06.700 ERROR controller.MenuController : Failed to display list view
+16:41:37.292 INFO  controller.MenuController : Book List View selected from menu bar.
+16:41:37.329 ERROR controller.MenuController : Failed to display list view
+16:42:06.518 INFO  controller.MenuController : Book List View selected from menu bar.
+16:42:06.547 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:48:27.253 INFO  controller.MenuController : Book List View selected from menu bar.
+16:48:27.278 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:48:57.201 INFO  controller.MenuController : Book List View selected from menu bar.
+16:48:58.247 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:49:50.003 INFO  controller.MenuController : Book List View selected from menu bar.
+16:49:50.029 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:50:13.045 INFO  controller.MenuController : Book List View selected from menu bar.
+16:50:13.070 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:50:31.795 INFO  controller.MenuController : Book List View selected from menu bar.
+16:50:31.820 ERROR database.PublisherTableGateway : Get Publisher By Id SQL query failed
+16:51:21.091 INFO  controller.MenuController : Book List View selected from menu bar.
+16:51:21.126 ERROR controller.MenuController : Failed to display list view
+16:51:24.376 INFO  controller.MenuController : Book List View selected from menu bar.
+16:51:24.393 ERROR controller.MenuController : Failed to display list view
+16:52:04.882 INFO  controller.MenuController : Book List View selected from menu bar.
+16:52:04.915 ERROR controller.MenuController : Failed to display list view
+16:53:15.995 INFO  controller.MenuController : Book List View selected from menu bar.
+16:53:16.024 ERROR controller.MenuController : Failed to display list view
+16:53:20.845 INFO  controller.MenuController : Author List View selected from menu bar.
+16:53:24.790 INFO  controller.MenuController : Add Author selected from menu bar.
+16:53:26.806 INFO  controller.MenuController : Book List View selected from menu bar.
+16:53:26.824 ERROR controller.MenuController : Failed to display list view
+16:53:46.013 INFO  controller.MenuController : Book List View selected from menu bar.
+16:53:46.042 ERROR controller.MenuController : Failed to display list view
+16:54:38.529 INFO  controller.MenuController : Book List View selected from menu bar.
+16:54:38.560 ERROR controller.MenuController : Failed to display list view
+16:54:42.532 INFO  controller.MenuController : Book List View selected from menu bar.
+16:54:42.548 ERROR controller.MenuController : Failed to display list view
+16:55:41.347 INFO  controller.MenuController : Book List View selected from menu bar.
+16:55:41.378 ERROR controller.MenuController : Failed to display list view
+16:55:57.473 INFO  controller.MenuController : Book List View selected from menu bar.
+16:55:57.503 ERROR controller.MenuController : Failed to display list view
+16:56:16.280 INFO  controller.MenuController : Book List View selected from menu bar.
+16:56:16.310 ERROR controller.MenuController : Failed to display list view
+16:56:33.099 INFO  controller.MenuController : Book List View selected from menu bar.
+16:56:33.130 ERROR controller.MenuController : Failed to display list view
+16:58:31.853 INFO  controller.MenuController : Book List View selected from menu bar.
+16:58:31.884 ERROR controller.MenuController : Failed to display list view
+16:58:36.023 INFO  controller.MenuController : Book List View selected from menu bar.
+16:58:36.041 ERROR controller.MenuController : Failed to display list view
+16:58:58.776 INFO  controller.MenuController : Book List View selected from menu bar.
+16:58:58.807 ERROR controller.MenuController : Failed to display list view
+17:02:44.782 INFO  controller.MenuController : Book List View selected from menu bar.
+17:02:44.819 ERROR controller.MenuController : Failed to display list view
+17:03:11.444 INFO  controller.MenuController : Add Book selected from menu bar.
+17:04:38.076 INFO  database.BookTableGateway : New record inserted at row 2
+17:04:38.077 INFO  book.Book : Model saved: 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 null
+17:04:49.519 INFO  book.Book : Model saved: 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 null
+17:04:50.846 INFO  book.Book : Model saved: 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 null
+17:04:55.663 INFO  controller.MenuController : Book List View selected from menu bar.
+17:04:55.694 ERROR controller.MenuController : Failed to display list view
+17:05:00.703 INFO  controller.MenuController : Add Book selected from menu bar.
+17:05:01.848 INFO  controller.MenuController : Book List View selected from menu bar.
+17:05:01.869 ERROR controller.MenuController : Failed to display list view
+17:05:05.752 INFO  controller.MenuController : Book List View selected from menu bar.
+17:05:05.773 ERROR controller.MenuController : Failed to display list view
+17:07:57.597 INFO  controller.MenuController : Book List View selected from menu bar.
+17:08:03.181 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:08:56.034 INFO  controller.MenuController : Book List View selected from menu bar.
+17:08:57.327 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+17:09:36.818 INFO  controller.MenuController : Book List View selected from menu bar.
+17:09:37.822 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:12:46.308 INFO  controller.MenuController : Book List View selected from menu bar.
+17:12:47.538 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:13:01.466 INFO  controller.MenuController : Book List View selected from menu bar.
+17:13:03.491 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:13:17.102 INFO  controller.MenuController : Book List View selected from menu bar.
+17:13:18.256 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:16:16.103 INFO  controller.MenuController : Add Book selected from menu bar.
+17:16:18.967 INFO  controller.MenuController : Book List View selected from menu bar.
+17:16:19.829 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:16:57.231 INFO  controller.MenuController : Book List View selected from menu bar.
+17:16:58.251 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:23:18.285 INFO  controller.MenuController : Book List View selected from menu bar.
+17:23:19.453 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:25:04.522 INFO  controller.MenuController : Book List View selected from menu bar.
+17:25:06.556 INFO  controller.MenuController : Add Book selected from menu bar.
+17:25:11.813 INFO  book.Book : Field left blank.
+17:25:11.814 ERROR controller.BookDetailController : Book not saved.
+17:25:27.492 INFO  book.Book : Field left blank.
+17:25:27.493 ERROR controller.BookDetailController : Book not saved.
+17:25:37.716 ERROR book.Book : Input year published failed business rules.
+17:25:37.717 ERROR controller.BookDetailController : Book not saved.
+17:27:10.015 INFO  controller.MenuController : Book List View selected from menu bar.
+17:27:12.380 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+17:27:16.240 INFO  controller.MenuController : Add Book selected from menu bar.
+17:27:34.043 ERROR book.Book : Input year published failed business rules.
+17:27:34.044 ERROR controller.BookDetailController : Book not saved.
+17:28:38.698 INFO  controller.MenuController : Add Author selected from menu bar.
+17:28:47.349 INFO  model.Author : Field left blank.
+17:28:47.350 ERROR controller.AuthorDetailController : Author not saved.
+17:29:17.975 ERROR model.Author : Input last name failed business rules.
+17:29:17.976 ERROR controller.AuthorDetailController : Author not saved.
+14:27:47.124 INFO  controller.MenuController : Book List View selected from menu bar.
+14:31:37.579 INFO  controller.MenuController : Book List View selected from menu bar.
+14:32:34.947 INFO  controller.MenuController : Book List View selected from menu bar.
+14:32:40.532 INFO  controller.MenuController : Author List View selected from menu bar.
+14:32:47.544 INFO  controller.MenuController : Quit from menu bar.
+14:38:44.513 INFO  controller.MenuController : Book List View selected from menu bar.
+14:38:44.576 ERROR controller.MenuController : Failed to display list view
+14:40:08.963 INFO  controller.MenuController : Book List View selected from menu bar.
+14:40:09.020 ERROR controller.MenuController : Failed to display list view
+14:40:13.549 INFO  controller.MenuController : Book List View selected from menu bar.
+14:40:13.578 ERROR controller.MenuController : Failed to display list view
+14:40:19.158 INFO  controller.MenuController : Add Book selected from menu bar.
+14:40:23.630 INFO  controller.MenuController : Book List View selected from menu bar.
+14:40:23.660 ERROR controller.MenuController : Failed to display list view
+14:44:58.890 INFO  controller.MenuController : Book List View selected from menu bar.
+14:44:58.947 ERROR controller.MenuController : Failed to display list view
+14:59:49.634 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+14:59:54.220 INFO  controller.MenuController : Book List View selected from menu bar.
+14:59:54.259 ERROR controller.MenuController : Failed to display list view
+15:03:05.103 INFO  controller.MenuController : Book List View selected from menu bar.
+15:03:05.156 ERROR controller.MenuController : Failed to display list view
+15:03:39.275 INFO  controller.MenuController : Add Book selected from menu bar.
+15:03:41.468 INFO  controller.MenuController : Book List View selected from menu bar.
+15:04:04.781 INFO  controller.MenuController : Book List View selected from menu bar.
+15:05:35.544 INFO  controller.MenuController : Book List View selected from menu bar.
+15:07:30.948 INFO  controller.MenuController : Book List View selected from menu bar.
+15:07:44.691 INFO  controller.MenuController : Quit from menu bar.
+15:08:44.391 INFO  controller.MenuController : Book List View selected from menu bar.
+15:10:57.308 INFO  controller.MenuController : Book List View selected from menu bar.
+15:11:12.274 INFO  controller.MenuController : Book List View selected from menu bar.
+15:13:43.142 INFO  controller.MenuController : Add Book selected from menu bar.
+15:13:45.670 INFO  controller.MenuController : Book List View selected from menu bar.
+15:14:49.868 INFO  controller.MenuController : Book List View selected from menu bar.
+15:26:50.963 INFO  controller.MenuController : Book List View selected from menu bar.
+15:26:51.027 ERROR controller.MenuController : Failed to display list view
+15:26:55.756 INFO  controller.MenuController : Book List View selected from menu bar.
+15:26:55.797 ERROR controller.MenuController : Failed to display list view
+15:26:59.003 INFO  controller.MenuController : Author List View selected from menu bar.
+15:27:08.638 INFO  controller.MenuController : Book List View selected from menu bar.
+15:27:08.700 ERROR controller.MenuController : Failed to display list view
+15:27:11.789 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+15:27:15.149 INFO  controller.MenuController : Book List View selected from menu bar.
+15:27:15.187 ERROR controller.MenuController : Failed to display list view
+15:27:20.726 INFO  controller.MenuController : Add Book selected from menu bar.
+15:27:22.493 INFO  controller.MenuController : Book List View selected from menu bar.
+15:27:22.528 ERROR controller.MenuController : Failed to display list view
+15:28:09.510 INFO  controller.MenuController : Book List View selected from menu bar.
+15:28:46.651 INFO  controller.MenuController : Book List View selected from menu bar.
+15:29:24.635 INFO  controller.MenuController : Book List View selected from menu bar.
+15:29:57.100 INFO  controller.MenuController : Book List View selected from menu bar.
+15:30:35.379 INFO  controller.MenuController : Book List View selected from menu bar.
+15:32:05.453 INFO  controller.MenuController : Book List View selected from menu bar.
+15:43:13.966 INFO  controller.MenuController : Book List View selected from menu bar.
+15:44:11.976 INFO  controller.MenuController : Book List View selected from menu bar.
+15:44:15.113 ERROR database.BookTableGateway : Get Books SQL query failed
+15:44:29.361 ERROR database.BookTableGateway : Get Books SQL query failed
+15:46:06.486 INFO  controller.MenuController : Book List View selected from menu bar.
+15:46:08.469 ERROR database.BookTableGateway : Get Books SQL query failed
+15:47:05.929 INFO  controller.MenuController : Book List View selected from menu bar.
+15:47:07.999 ERROR database.BookTableGateway : Get Books SQL query failed
+15:47:42.348 INFO  controller.MenuController : Book List View selected from menu bar.
+15:47:43.734 ERROR database.BookTableGateway : Get Books SQL query failed
+15:48:19.899 INFO  controller.MenuController : Book List View selected from menu bar.
+15:49:06.776 INFO  controller.MenuController : Book List View selected from menu bar.
+15:49:10.118 ERROR database.BookTableGateway : Get Books SQL query failed
+15:49:28.796 INFO  controller.MenuController : Book List View selected from menu bar.
+15:49:55.050 INFO  controller.MenuController : Book List View selected from menu bar.
+15:49:58.508 ERROR database.BookTableGateway : Get Books SQL query failed
+15:51:34.573 INFO  controller.MenuController : Book List View selected from menu bar.
+15:56:34.497 INFO  controller.MenuController : Book List View selected from menu bar.
+15:56:36.885 ERROR database.BookTableGateway : Get Books SQL query failed
+15:57:15.510 INFO  controller.MenuController : Book List View selected from menu bar.
+15:58:56.848 INFO  controller.MenuController : Book List View selected from menu bar.
+16:00:40.431 INFO  controller.MenuController : Book List View selected from menu bar.
+16:03:45.474 INFO  controller.MenuController : Book List View selected from menu bar.
+16:04:40.696 INFO  controller.MenuController : Book List View selected from menu bar.
+16:04:43.113 ERROR database.BookTableGateway : Get Books SQL query failed
+16:05:03.702 INFO  controller.MenuController : Book List View selected from menu bar.
+16:05:06.127 ERROR database.BookTableGateway : Get Books SQL query failed
+16:05:31.268 INFO  controller.MenuController : Book List View selected from menu bar.
+16:06:04.743 INFO  controller.MenuController : Book List View selected from menu bar.
+16:06:06.211 ERROR database.BookTableGateway : Get Books SQL query failed
+16:06:25.345 INFO  controller.MenuController : Book List View selected from menu bar.
+16:07:14.362 INFO  controller.MenuController : Book List View selected from menu bar.
+16:08:51.514 INFO  controller.MenuController : Book List View selected from menu bar.
+16:08:53.441 INFO  controller.BookSearchController : Returned list for search value: down
+16:08:55.919 INFO  controller.BookSearchController : Returned list for search value: 
+16:09:21.760 INFO  controller.MenuController : Book List View selected from menu bar.
+16:09:23.585 INFO  controller.BookSearchController : Returned list for search value: ""
+16:09:25.933 INFO  controller.BookSearchController : Returned list for search value: "hi"
+16:09:28.737 INFO  controller.BookSearchController : Returned list for search value: "down"
+19:23:10.578 INFO  controller.MenuController : Book List View selected from menu bar.
+19:23:15.572 INFO  controller.BookSearchController : Returned list for search value: "down"
+19:23:18.437 INFO  controller.BookSearchController : Returned list for search value: "d"
+19:23:29.092 INFO  controller.BookSearchController : Returned list for search value: "h"
+19:26:17.658 INFO  controller.MenuController : Book List View selected from menu bar.
+19:26:18.793 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:26:26.964 INFO  controller.MenuController : Add Book selected from menu bar.
+19:26:38.496 INFO  controller.MenuController : Book List View selected from menu bar.
+19:26:40.981 INFO  controller.MenuController : Author List View selected from menu bar.
+19:28:22.462 INFO  controller.MenuController : Book List View selected from menu bar.
+19:28:24.155 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:28:56.002 INFO  controller.MenuController : Book List View selected from menu bar.
+19:28:57.845 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:29:02.263 INFO  controller.MenuController : Book List View selected from menu bar.
+19:29:04.981 INFO  controller.MenuController : Author List View selected from menu bar.
+19:29:06.888 INFO  controller.MenuController : Book List View selected from menu bar.
+19:29:11.154 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+19:29:13.997 INFO  controller.MenuController : Book List View selected from menu bar.
+19:29:16.341 INFO  controller.MenuController : Add Book selected from menu bar.
+19:30:16.040 INFO  database.BookTableGateway : New record inserted at row 3
+19:30:16.041 INFO  book.Book : Model saved: 3 bad book 0 1 Unknown null null
+19:31:12.012 INFO  controller.MenuController : Add Author selected from menu bar.
+19:31:32.062 INFO  model.Author : Field left blank.
+19:31:32.063 ERROR controller.AuthorDetailController : Author not saved.
+19:34:35.508 INFO  controller.MenuController : Book List View selected from menu bar.
+19:34:38.533 INFO  controller.MenuController : Add Book selected from menu bar.
+19:35:13.034 INFO  controller.MenuController : Add Book selected from menu bar.
+19:35:26.361 INFO  controller.MenuController : Book List View selected from menu bar.
+19:35:27.292 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:35:30.272 INFO  controller.MenuController : Book List View selected from menu bar.
+19:35:31.432 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+19:37:01.528 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+19:37:11.625 INFO  controller.MenuController : Add Author selected from menu bar.
+19:37:15.296 INFO  controller.MenuController : Add Author selected from menu bar.
+19:37:17.812 INFO  controller.MenuController : Add Author selected from menu bar.
+19:38:19.227 INFO  controller.MenuController : Book List View selected from menu bar.
+19:38:21.159 INFO  controller.MenuController : Add Book selected from menu bar.
+19:38:29.050 INFO  controller.MenuController : Book List View selected from menu bar.
+19:38:30.381 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+19:38:55.732 INFO  controller.MenuController : Book List View selected from menu bar.
+19:38:57.341 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+19:39:00.284 INFO  controller.MenuController : Add Book selected from menu bar.
+19:40:38.544 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+19:40:41.800 INFO  controller.MenuController : Add Author selected from menu bar.
+19:41:03.776 INFO  controller.MenuController : Book List View selected from menu bar.
+19:41:06.103 INFO  controller.BookListController : 3 bad book 0 1 Unknown null 2018-03-06 clicked.
+19:41:07.674 INFO  controller.BookDetailController : Book deleted: 3 bad book 0 1 Unknown null 2018-03-06
+22:00:31.391 INFO  controller.MenuController : Book List View selected from menu bar.
+22:00:32.120 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+22:00:37.552 INFO  controller.MenuController : Author List View selected from menu bar.
+22:00:38.405 INFO  controller.AuthorListController : 2 Douglas Coupland 1961-12-30 M https://www.coupland.com/ clicked.
+22:16:08.073 INFO  controller.MenuController : Add Author selected from menu bar.
+22:20:28.873 INFO  controller.MenuController : Add Book selected from menu bar.
+22:21:53.150 INFO  controller.MenuController : Author List View selected from menu bar.
+22:21:56.925 INFO  controller.MenuController : Book List View selected from menu bar.
+22:21:58.644 INFO  controller.MenuController : Author List View selected from menu bar.
+22:25:00.420 INFO  controller.MenuController : Book List View selected from menu bar.
+22:25:02.859 INFO  controller.MenuController : Author List View selected from menu bar.
+22:30:38.031 INFO  controller.MenuController : Book List View selected from menu bar.
+22:37:43.216 INFO  controller.MenuController : Book List View selected from menu bar.
+22:37:50.034 INFO  controller.BookSearchController : Returned list for search value: "dow"
+22:37:52.007 INFO  controller.BookSearchController : Returned list for search value: "a"
+22:42:01.237 INFO  controller.MenuController : Book List View selected from menu bar.
+22:42:03.370 INFO  controller.MenuController : Add Book selected from menu bar.
+22:42:12.921 INFO  database.BookTableGateway : New record inserted at row 4
+22:42:12.922 INFO  book.Book : Model saved: 4 not oool dude 0 1 Unknown null null
+22:42:17.996 INFO  controller.MenuController : Book List View selected from menu bar.
+22:42:19.336 INFO  controller.BookListController : 4 not oool dude 0 1 Unknown null 2018-03-06 clicked.
+22:42:21.838 INFO  controller.BookDetailController : Book deleted: 4 not oool dude 0 1 Unknown null 2018-03-06
+22:45:00.513 INFO  controller.MenuController : Add Author selected from menu bar.
+22:45:15.913 INFO  controller.MenuController : Author List View selected from menu bar.
+22:45:19.100 INFO  controller.MenuController : Add Author selected from menu bar.
+22:46:13.760 INFO  database.AuthorTableGateway : New record inserted at row 32
+22:46:13.761 INFO  model.Author : Model saved: 32 Shirley Jackson 1916-12-14 F http://shirleyjackson.org/
+22:46:22.224 INFO  controller.MenuController : Author List View selected from menu bar.
+22:46:27.521 INFO  controller.MenuController : Add Author selected from menu bar.
+22:46:36.399 INFO  database.AuthorTableGateway : New record inserted at row 33
+22:46:36.400 INFO  model.Author : Model saved: 33 Bad Duded 2018-02-26 U null
+22:46:39.818 INFO  controller.MenuController : Author List View selected from menu bar.
+22:46:41.240 INFO  controller.AuthorListController : 33 Bad Duded 2018-02-26 U null clicked.
+22:46:47.378 INFO  controller.AuthorDetailController : Author deleted: 33 Bad Duded 2018-02-26 U null
+22:47:44.734 INFO  controller.MenuController : Author List View selected from menu bar.
+22:47:47.711 INFO  controller.MenuController : Add Author selected from menu bar.
+22:48:00.934 INFO  database.AuthorTableGateway : New record inserted at row 34
+22:48:00.935 INFO  model.Author : Model saved: 34 Mad Dad 2018-03-05 U null
+22:48:03.834 INFO  controller.MenuController : Author List View selected from menu bar.
+22:48:04.858 INFO  controller.AuthorListController : 34 Mad Dad 2018-03-05 U null clicked.
+22:48:06.348 INFO  controller.AuthorDetailController : Author deleted: 34 Mad Dad 2018-03-05 U null
+22:48:13.271 INFO  controller.MenuController : Add Author selected from menu bar.
+22:48:24.119 INFO  database.AuthorTableGateway : New record inserted at row 35
+22:48:24.119 INFO  model.Author : Model saved: 35 Sad Dad 2018-02-25 U null
+22:48:25.832 INFO  controller.AuthorDetailController : Author deleted: 0 Sad Dad 2018-02-25 U null
+22:48:30.271 INFO  controller.MenuController : Author List View selected from menu bar.
+22:48:35.410 INFO  controller.MenuController : Book List View selected from menu bar.
+22:48:36.910 INFO  controller.MenuController : Author List View selected from menu bar.
+22:48:37.973 INFO  controller.AuthorListController : 35 Sad Dad 2018-02-25 U null clicked.
+22:48:39.565 INFO  controller.AuthorDetailController : Author deleted: 35 Sad Dad 2018-02-25 U null
+22:51:22.374 INFO  controller.MenuController : Book List View selected from menu bar.
+22:51:24.232 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+22:59:55.053 INFO  controller.AuthorListController : 3 Austin Olivares 1993-09-25 M austinolivares.com clicked.
+23:01:59.409 INFO  controller.MenuController : Book List View selected from menu bar.
+23:02:01.645 INFO  controller.MenuController : Add Book selected from menu bar.
+23:02:03.676 INFO  controller.MenuController : Book List View selected from menu bar.
+23:02:05.583 INFO  controller.MenuController : Author List View selected from menu bar.
+23:02:06.817 INFO  controller.MenuController : Book List View selected from menu bar.
+23:02:08.786 INFO  controller.MenuController : Add Author selected from menu bar.
+23:02:10.130 INFO  controller.MenuController : Book List View selected from menu bar.
+23:02:11.692 INFO  controller.MenuController : Book List View selected from menu bar.
+23:02:13.208 INFO  controller.MenuController : Add Book selected from menu bar.
+23:04:51.014 INFO  controller.MenuController : Book List View selected from menu bar.
+23:04:55.552 INFO  controller.BookSearchController : Returned list for search value: "have"
+23:05:02.380 INFO  controller.BookSearchController : Returned list for search value: "out"
+23:06:03.149 INFO  controller.MenuController : Book List View selected from menu bar.
+12:44:06.909 INFO  controller.MenuController : Book List View selected from menu bar.
+12:44:11.247 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+12:46:09.992 INFO  controller.MenuController : Book List View selected from menu bar.
+12:46:11.509 ERROR view.MainViewChange : Error changing center view.
+12:46:11.510 ERROR controller.BookListController : Author selected is invalid/null!
+12:46:14.400 ERROR view.MainViewChange : Error changing center view.
+12:46:14.401 ERROR controller.BookListController : Author selected is invalid/null!
+12:51:45.054 INFO  controller.MenuController : Book List View selected from menu bar.
+12:51:46.424 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+12:51:47.415 INFO  controller.BookDetailController : Audit Trail clicked.
+13:02:24.154 INFO  controller.MenuController : Book List View selected from menu bar.
+13:02:24.207 ERROR view.MainViewChange : Error changing bottom view.
+13:02:25.352 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:02:26.444 INFO  controller.BookDetailController : Audit Trail clicked.
+13:02:26.453 ERROR view.MainViewChange : Error changing bottom view.
+13:03:49.792 INFO  controller.MenuController : Book List View selected from menu bar.
+13:03:52.980 INFO  controller.MenuController : Book List View selected from menu bar.
+13:03:58.868 INFO  controller.MenuController : Author List View selected from menu bar.
+13:04:00.082 INFO  controller.MenuController : Book List View selected from menu bar.
+13:04:32.304 INFO  controller.MenuController : Book List View selected from menu bar.
+13:05:27.325 INFO  controller.MenuController : Book List View selected from menu bar.
+13:06:26.948 INFO  controller.MenuController : Book List View selected from menu bar.
+13:07:16.892 INFO  controller.MenuController : Book List View selected from menu bar.
+13:07:56.310 INFO  controller.MenuController : Book List View selected from menu bar.
+13:07:58.328 INFO  controller.MenuController : Author List View selected from menu bar.
+13:08:06.064 INFO  controller.MenuController : Add Author selected from menu bar.
+13:08:08.736 INFO  controller.MenuController : Add Book selected from menu bar.
+13:08:11.817 INFO  controller.MenuController : Add Book selected from menu bar.
+13:08:14.041 INFO  controller.MenuController : Add Author selected from menu bar.
+13:08:16.006 INFO  controller.MenuController : Add Book selected from menu bar.
+13:08:17.105 INFO  controller.MenuController : Book List View selected from menu bar.
+13:08:32.663 INFO  controller.MenuController : Add Author selected from menu bar.
+13:08:34.954 INFO  controller.MenuController : Author List View selected from menu bar.
+13:08:36.890 INFO  controller.MenuController : Book List View selected from menu bar.
+13:09:05.849 INFO  controller.MenuController : Book List View selected from menu bar.
+13:09:09.235 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:09:11.073 INFO  controller.BookDetailController : Audit Trail clicked.
+13:09:24.450 INFO  controller.MenuController : Book List View selected from menu bar.
+13:09:26.659 INFO  controller.MenuController : Author List View selected from menu bar.
+13:10:43.507 INFO  controller.MenuController : Book List View selected from menu bar.
+13:12:37.096 INFO  controller.MenuController : Book List View selected from menu bar.
+13:12:40.195 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+13:12:41.480 INFO  controller.BookDetailController : Audit Trail clicked.
+13:12:52.974 INFO  controller.MenuController : Book List View selected from menu bar.
+13:12:54.498 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:12:56.473 INFO  controller.BookDetailController : Audit Trail clicked.
+13:15:02.872 INFO  controller.MenuController : Book List View selected from menu bar.
+13:15:03.952 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:15:05.413 INFO  controller.BookDetailController : Audit Trail clicked.
+13:15:51.095 INFO  controller.MenuController : Book List View selected from menu bar.
+13:15:52.486 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:15:57.439 INFO  controller.BookDetailController : Audit Trail clicked.
+13:29:08.470 INFO  controller.MenuController : Book List View selected from menu bar.
+13:29:09.494 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:29:11.155 INFO  controller.BookDetailController : Audit Trail clicked.
+19:23:41.034 INFO  controller.MenuController : Book List View selected from menu bar.
+19:23:43.055 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:23:44.970 INFO  controller.BookDetailController : Audit Trail clicked.
+19:23:44.987 ERROR view.MainViewChange : Error changing center view.
+19:23:44.988 ERROR controller.BookDetailController : Error loading book audit trail.
+19:23:48.688 INFO  controller.BookDetailController : Audit Trail clicked.
+19:23:48.701 ERROR view.MainViewChange : Error changing center view.
+19:23:48.702 ERROR controller.BookDetailController : Error loading book audit trail.
+19:25:35.004 INFO  controller.MenuController : Book List View selected from menu bar.
+19:25:36.022 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:25:38.078 INFO  controller.BookDetailController : Audit Trail clicked.
+19:27:27.632 INFO  controller.MenuController : Book List View selected from menu bar.
+19:27:28.881 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+19:27:30.294 INFO  controller.BookDetailController : Audit Trail clicked.
+19:28:18.744 INFO  controller.MenuController : Book List View selected from menu bar.
+19:28:19.751 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:28:21.444 INFO  controller.BookDetailController : Audit Trail clicked.
+19:29:07.676 INFO  controller.MenuController : Book List View selected from menu bar.
+19:29:08.774 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:29:10.081 INFO  controller.BookDetailController : Audit Trail clicked.
+19:30:08.890 INFO  controller.MenuController : Book List View selected from menu bar.
+19:30:10.846 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:30:11.896 INFO  controller.BookDetailController : Audit Trail clicked.
+19:30:43.476 INFO  controller.MenuController : Book List View selected from menu bar.
+19:30:45.252 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:30:46.445 INFO  controller.BookDetailController : Audit Trail clicked.
+19:31:26.264 INFO  controller.MenuController : Book List View selected from menu bar.
+19:31:27.611 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:31:28.648 INFO  controller.BookDetailController : Audit Trail clicked.
+19:33:57.860 INFO  controller.MenuController : Book List View selected from menu bar.
+19:33:59.201 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:34:00.213 INFO  controller.BookDetailController : Audit Trail clicked.
+19:34:01.353 INFO  controller.BookAuditTrailController : Back button clicked
+19:34:03.181 INFO  controller.BookDetailController : Audit Trail clicked.
+19:34:04.150 INFO  controller.BookAuditTrailController : Back button clicked
+19:34:05.244 INFO  controller.BookDetailController : Audit Trail clicked.
+19:34:06.431 INFO  controller.BookAuditTrailController : Back button clicked
+19:41:16.721 INFO  controller.MenuController : Book List View selected from menu bar.
+19:41:18.026 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+19:41:19.166 INFO  controller.BookDetailController : Audit Trail clicked.
+19:41:25.278 INFO  controller.MenuController : Book List View selected from menu bar.
+19:41:26.123 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:41:27.010 INFO  controller.BookDetailController : Audit Trail clicked.
+19:41:31.120 INFO  controller.BookAuditTrailController : Back button clicked
+19:41:33.372 INFO  controller.MenuController : Book List View selected from menu bar.
+19:41:43.090 INFO  controller.MenuController : Book List View selected from menu bar.
+19:41:44.017 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+19:41:45.042 INFO  controller.BookDetailController : Audit Trail clicked.
+20:00:23.117 INFO  controller.MenuController : Book List View selected from menu bar.
+20:00:24.482 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+20:00:25.952 INFO  controller.BookDetailController : Audit Trail clicked.
+20:05:04.517 INFO  controller.MenuController : Book List View selected from menu bar.
+20:05:05.762 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+20:05:06.786 INFO  controller.BookDetailController : Audit Trail clicked.
+20:05:06.810 ERROR database.BookTableGateway : Get Books SQL query failed
+20:05:06.810 ERROR view.MainViewChange : Error changing center view.
+20:05:06.811 ERROR controller.BookDetailController : Error loading book audit trail.
+20:05:15.738 INFO  controller.BookDetailController : Audit Trail clicked.
+20:05:15.759 ERROR database.BookTableGateway : Get Books SQL query failed
+20:05:15.759 ERROR view.MainViewChange : Error changing center view.
+20:05:15.760 ERROR controller.BookDetailController : Error loading book audit trail.
+20:07:16.285 INFO  controller.MenuController : Book List View selected from menu bar.
+20:07:17.587 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+20:07:18.563 INFO  controller.BookDetailController : Audit Trail clicked.
+22:11:59.893 INFO  controller.MenuController : Book List View selected from menu bar.
+22:12:00.752 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+22:12:02.549 INFO  book.Book : Model saved: 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02
+22:26:42.404 INFO  controller.MenuController : Book List View selected from menu bar.
+22:26:45.417 INFO  controller.MenuController : Add Book selected from menu bar.
+22:27:20.167 INFO  controller.BookDetailController : Book deleted: 0 null 0 null null null
+22:27:54.962 INFO  controller.MenuController : Book List View selected from menu bar.
+22:27:56.577 INFO  controller.MenuController : Add Book selected from menu bar.
+22:27:59.843 INFO  book.Book : Field left blank.
+22:27:59.844 ERROR controller.BookDetailController : Book not saved.
+22:28:04.751 INFO  database.BookTableGateway : New record inserted at row 5
+22:28:04.752 INFO  book.Book : Model saved: 5 Book New 0 1 Unknown null null
+22:28:14.625 INFO  book.Book : Model saved: 5 Book New 0 1 Unknown null null
+22:28:21.778 INFO  controller.MenuController : Book List View selected from menu bar.
+22:28:36.612 INFO  controller.MenuController : Add Book selected from menu bar.
+22:28:43.614 INFO  database.BookTableGateway : New record inserted at row 6
+22:28:43.615 INFO  book.Book : Model saved: 6 Hugh Book 0 1 Unknown null null
+22:29:18.040 INFO  controller.MenuController : Book List View selected from menu bar.
+22:29:21.764 INFO  controller.MenuController : Add Book selected from menu bar.
+22:36:59.753 INFO  controller.MenuController : Book List View selected from menu bar.
+22:37:02.132 INFO  controller.BookListController : 6 Hugh Book 0 1 Unknown null 2018-03-08 clicked.
+22:37:07.795 INFO  database.BookTableGateway : New book audit record inserted at row 1
+22:37:07.796 INFO  controller.BookDetailController : Summary changed from null to new summary
+22:37:07.820 INFO  book.Book : Model saved: 6 Hugh Book 0 1 Unknown null 2018-03-08
+22:37:21.070 INFO  book.Book : Model saved: 6 Hugh Book 0 1 Unknown null 2018-03-08
+22:37:32.336 INFO  database.BookTableGateway : New book audit record inserted at row 2
+22:37:32.337 INFO  controller.BookDetailController : Year Published changed from 0 to 1950
+22:37:32.411 INFO  book.Book : Model saved: 6 Hugh Book 1950 1 Unknown null 2018-03-08
+22:37:53.527 INFO  book.Book : Model saved: 6 Hugh Book 1950 1 Unknown null 2018-03-08
+22:37:55.069 INFO  book.Book : Model saved: 6 Hugh Book 1950 1 Unknown null 2018-03-08
+22:38:27.964 INFO  controller.MenuController : Book List View selected from menu bar.
+22:38:30.936 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+22:38:32.068 INFO  controller.BookDetailController : Audit Trail clicked.
+22:38:40.693 INFO  controller.BookAuditTrailController : Back button clicked
+09:50:12.567 INFO  controller.MenuController : Add Book selected from menu bar.
+09:50:14.876 INFO  controller.BookDetailController : Audit Trail clicked.
+09:50:16.674 INFO  controller.BookDetailController : Audit Trail clicked.
+09:50:19.549 INFO  controller.BookDetailController : Audit Trail clicked.
+09:50:22.830 INFO  controller.BookDetailController : Audit Trail clicked.
+09:50:30.958 INFO  controller.MenuController : Book List View selected from menu bar.
+09:50:32.053 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+09:50:33.315 INFO  controller.BookDetailController : Audit Trail clicked.
+09:50:33.359 ERROR database.BookTableGateway : Get Books SQL query failed
+09:50:33.359 ERROR view.MainViewChange : Error changing center view.
+09:50:33.360 ERROR controller.BookDetailController : Error loading book audit trail.
+09:50:36.878 INFO  controller.BookDetailController : Audit Trail clicked.
+09:50:36.895 ERROR database.BookTableGateway : Get Books SQL query failed
+09:50:36.896 ERROR view.MainViewChange : Error changing center view.
+09:50:36.896 ERROR controller.BookDetailController : Error loading book audit trail.
+09:50:56.132 INFO  controller.MenuController : Add Book selected from menu bar.
+09:51:02.577 INFO  database.BookTableGateway : New record inserted at row 7
+09:51:02.578 INFO  book.Book : Model saved: 7 Neew Bookds 0 1 Unknown null null
+09:51:02.603 ERROR database.BookTableGateway : Insert Book SQL query failed
+09:52:03.702 INFO  controller.MenuController : Book List View selected from menu bar.
+09:52:07.552 INFO  controller.MenuController : Add Book selected from menu bar.
+09:52:14.857 INFO  database.BookTableGateway : New record inserted at row 8
+09:52:14.858 INFO  book.Book : Model saved: 8 WOW 0 1 Unknown null null
+09:52:14.943 ERROR database.BookTableGateway : Insert Book SQL query failed
+09:54:45.360 INFO  controller.MenuController : Add Book selected from menu bar.
+09:54:49.695 INFO  database.BookTableGateway : New record inserted at row 9
+09:54:49.696 INFO  book.Book : Model saved: 9 hah 0 1 Unknown null null
+09:54:49.720 INFO  database.BookTableGateway : New book audit record inserted at row 5
+09:54:58.124 INFO  book.Book : Model saved: 9 hah 0 1 Unknown null null
+09:54:58.149 INFO  database.BookTableGateway : New book audit record inserted at row 6
+09:55:02.425 INFO  book.Book : Model saved: 9 hah 0 1 Unknown null null
+09:55:02.451 INFO  database.BookTableGateway : New book audit record inserted at row 7
+09:57:34.556 INFO  controller.MenuController : Book List View selected from menu bar.
+09:57:37.358 INFO  controller.BookListController : 9 hah 0 1 Unknown null 2018-03-09 clicked.
+09:57:38.923 INFO  controller.BookDetailController : Book deleted: 9 hah 0 1 Unknown null 2018-03-09
+09:57:38.963 ERROR database.BookTableGateway : Delete Book SQL query failed
+09:58:24.700 INFO  controller.MenuController : Book List View selected from menu bar.
+09:58:26.328 INFO  controller.BookListController : 9 hah 0 1 Unknown null 2018-03-09 clicked.
+09:58:27.826 INFO  controller.BookDetailController : Book deleted: 9 hah 0 1 Unknown null 2018-03-09
+09:58:27.858 ERROR database.BookTableGateway : Delete Book SQL query failed
+09:58:30.622 INFO  controller.MenuController : Book List View selected from menu bar.
+09:58:31.973 INFO  controller.BookListController : 8 WOW 0 1 Unknown null 2018-03-09 clicked.
+09:58:36.166 INFO  controller.BookDetailController : Book deleted: 8 WOW 0 1 Unknown null 2018-03-09
+09:58:45.707 INFO  controller.BookListController : 9 hah 0 1 Unknown null 2018-03-09 clicked.
+09:58:47.084 INFO  controller.BookDetailController : Book deleted: 9 hah 0 1 Unknown null 2018-03-09
+09:58:47.136 ERROR database.BookTableGateway : Delete Book SQL query failed
+09:58:56.185 INFO  controller.MenuController : Book List View selected from menu bar.
+09:58:57.460 INFO  controller.BookListController : 7 Neew Bookds 0 1 Unknown null 2018-03-09 clicked.
+09:58:58.668 INFO  controller.BookDetailController : Book deleted: 7 Neew Bookds 0 1 Unknown null 2018-03-09
+09:59:02.363 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+09:59:04.512 INFO  controller.BookDetailController : Book deleted: 6 Hugh Book 1950 1 Unknown null 2018-03-08
+09:59:04.546 ERROR database.BookTableGateway : Delete Book SQL query failed
+09:59:30.108 INFO  controller.MenuController : Book List View selected from menu bar.
+09:59:31.913 INFO  controller.BookListController : 5 Book New 0 1 Unknown null 2018-03-08 clicked.
+09:59:33.138 INFO  controller.BookDetailController : Book deleted: 5 Book New 0 1 Unknown null 2018-03-08
+10:01:44.741 INFO  controller.MenuController : Book List View selected from menu bar.
+10:01:47.439 INFO  controller.BookListController : 9 hah 0 1 Unknown null 2018-03-09 clicked.
+10:01:48.802 INFO  controller.BookDetailController : Book deleted: 9 hah 0 1 Unknown null 2018-03-09
+10:06:05.138 INFO  controller.MenuController : Add Book selected from menu bar.
+10:06:11.518 INFO  database.BookTableGateway : New record inserted at row 10
+10:06:11.519 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:11.593 INFO  database.BookTableGateway : New book audit record inserted at row 8
+10:06:15.152 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:16.228 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:16.895 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:17.495 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:29.164 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:36.273 INFO  database.BookTableGateway : New book audit record inserted at row 9
+10:06:36.274 INFO  controller.BookDetailController : Summary changed from null to hi there
+10:06:36.324 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:37.632 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:06:38.499 INFO  book.Book : Model saved: 10 NEWW 0 1 Unknown null null
+10:07:45.339 INFO  controller.MenuController : Book List View selected from menu bar.
+10:07:47.333 INFO  controller.MenuController : Add Book selected from menu bar.
+10:07:53.728 INFO  database.BookTableGateway : New record inserted at row 11
+10:07:53.729 INFO  book.Book : Model saved: 11 Huge Book 0 1 Unknown null null
+10:07:53.753 INFO  database.BookTableGateway : New book audit record inserted at row 10
+10:08:22.427 INFO  database.BookTableGateway : New book audit record inserted at row 11
+10:08:22.428 INFO  controller.BookDetailController : Summary changed from null to This is a giant book, a tome really.
+10:08:22.476 INFO  book.Book : Model saved: 11 Huge Book 0 1 Unknown null null
+10:09:34.328 INFO  controller.MenuController : Add Book selected from menu bar.
+10:09:42.151 INFO  database.BookTableGateway : New record inserted at row 12
+10:09:42.152 INFO  book.Book : Model saved: 12 Sad Book 0 1 Unknown null null
+10:09:42.185 INFO  database.BookTableGateway : New book audit record inserted at row 12
+10:09:48.861 INFO  book.Book : Model saved: 12 Sad Book 0 1 Unknown null null
+10:09:51.211 INFO  book.Book : Model saved: 12 Sad Book 0 1 Unknown null null
+10:10:01.222 INFO  database.BookTableGateway : New book audit record inserted at row 13
+10:10:01.223 INFO  controller.BookDetailController : Summary changed from null to :(
+10:10:01.247 INFO  book.Book : Model saved: 12 Sad Book 0 1 Unknown null null
+10:10:04.115 INFO  book.Book : Model saved: 12 Sad Book 0 1 Unknown null null
+10:10:14.303 INFO  controller.MenuController : Book List View selected from menu bar.
+10:10:15.786 INFO  controller.BookListController : 12 Sad Book 0 1 Unknown null 2018-03-09 clicked.
+10:10:21.225 INFO  database.BookTableGateway : New book audit record inserted at row 14
+10:10:21.226 INFO  controller.BookDetailController : Year Published changed from 0 to 1930
+10:10:21.276 INFO  book.Book : Model saved: 12 Sad Book 1930 1 Unknown null 2018-03-09
+10:11:01.286 INFO  book.Book : Model saved: 12 Sad Book 1930 1 Unknown null 2018-03-09
+10:18:06.180 INFO  controller.MenuController : Book List View selected from menu bar.
+10:18:17.396 INFO  controller.BookListController : 12 Sad Book 1930 1 Unknown null 2018-03-09 clicked.
+10:18:18.784 INFO  controller.BookDetailController : Audit Trail clicked.
+10:18:18.808 ERROR database.BookTableGateway : Get Books SQL query failed
+10:18:18.809 ERROR view.MainViewChange : Error changing center view.
+10:18:18.811 ERROR controller.BookDetailController : Error loading book audit trail.
+10:18:19.890 INFO  controller.BookDetailController : Audit Trail clicked.
+10:18:19.909 ERROR database.BookTableGateway : Get Books SQL query failed
+10:18:19.909 ERROR view.MainViewChange : Error changing center view.
+10:18:19.910 ERROR controller.BookDetailController : Error loading book audit trail.
+10:18:21.204 INFO  controller.BookDetailController : Audit Trail clicked.
+10:18:21.222 ERROR database.BookTableGateway : Get Books SQL query failed
+10:18:21.222 ERROR view.MainViewChange : Error changing center view.
+10:18:21.223 ERROR controller.BookDetailController : Error loading book audit trail.
+10:18:22.528 INFO  controller.BookDetailController : Audit Trail clicked.
+10:18:22.558 ERROR database.BookTableGateway : Get Books SQL query failed
+10:18:22.558 ERROR view.MainViewChange : Error changing center view.
+10:18:22.559 ERROR controller.BookDetailController : Error loading book audit trail.
+10:18:23.856 INFO  controller.BookDetailController : Audit Trail clicked.
+10:18:23.876 ERROR database.BookTableGateway : Get Books SQL query failed
+10:18:23.877 ERROR view.MainViewChange : Error changing center view.
+10:18:23.877 ERROR controller.BookDetailController : Error loading book audit trail.
+10:18:26.591 INFO  controller.BookDetailController : Audit Trail clicked.
+10:18:26.607 ERROR database.BookTableGateway : Get Books SQL query failed
+10:18:26.607 ERROR view.MainViewChange : Error changing center view.
+10:18:26.608 ERROR controller.BookDetailController : Error loading book audit trail.
+10:19:03.935 INFO  controller.MenuController : Add Book selected from menu bar.
+10:19:05.285 INFO  controller.BookDetailController : Audit Trail clicked.
+10:19:07.134 INFO  controller.BookDetailController : Audit Trail clicked.
+10:22:36.479 INFO  controller.MenuController : Add Book selected from menu bar.
+10:22:37.802 INFO  controller.BookDetailController : Audit Trail clicked.
+10:22:43.337 ERROR controller.BookDetailController : User attempted to visit audit trail view without saving book.
+10:22:55.095 INFO  database.BookTableGateway : New record inserted at row 13
+10:22:55.096 INFO  book.Book : Model saved: 13 Good Book 0 1 Unknown null null
+10:22:55.120 INFO  database.BookTableGateway : New book audit record inserted at row 15
+10:22:56.721 INFO  book.Book : Model saved: 13 Good Book 0 1 Unknown null null
+10:23:07.149 INFO  book.Book : Model saved: 13 Good Book 0 1 Unknown null null
+10:23:13.319 INFO  database.BookTableGateway : New book audit record inserted at row 16
+10:23:13.320 INFO  controller.BookDetailController : Summary changed from null to It's good!
+10:23:13.352 INFO  book.Book : Model saved: 13 Good Book 0 1 Unknown null null
+10:23:19.736 INFO  book.Book : Model saved: 13 Good Book 0 1 Unknown null null
+10:23:41.882 INFO  controller.BookDetailController : Audit Trail clicked.
+10:23:44.062 ERROR controller.BookDetailController : User attempted to visit audit trail view without saving book.
+10:23:46.183 INFO  controller.BookDetailController : Book deleted: 0 Good Book 0 1 Unknown null null
+10:23:53.857 INFO  controller.MenuController : Book List View selected from menu bar.
+10:25:02.715 INFO  controller.MenuController : Book List View selected from menu bar.
+10:25:04.491 INFO  controller.MenuController : Add Book selected from menu bar.
+10:25:08.776 INFO  database.BookTableGateway : New record inserted at row 14
+10:25:08.777 INFO  book.Book : Model saved: 14 hi 0 1 Unknown null null
+10:25:08.826 INFO  database.BookTableGateway : New book audit record inserted at row 17
+10:25:11.364 INFO  controller.BookDetailController : Audit Trail clicked.
+10:25:11.391 ERROR database.BookTableGateway : Get Books SQL query failed
+10:25:11.392 ERROR view.MainViewChange : Error changing center view.
+10:25:11.392 ERROR controller.BookDetailController : Error loading book audit trail.
+10:25:11.458 INFO  controller.BookDetailController : Audit Trail clicked.
+10:25:11.478 ERROR database.BookTableGateway : Get Books SQL query failed
+10:25:11.478 ERROR view.MainViewChange : Error changing center view.
+10:25:11.479 ERROR controller.BookDetailController : Error loading book audit trail.
+10:25:57.897 INFO  controller.MenuController : Book List View selected from menu bar.
+10:25:59.692 INFO  controller.MenuController : Add Book selected from menu bar.
+10:26:04.080 INFO  database.BookTableGateway : New record inserted at row 15
+10:26:04.080 INFO  book.Book : Model saved: 15 haldo 0 1 Unknown null null
+10:26:04.104 INFO  database.BookTableGateway : New book audit record inserted at row 18
+10:26:05.690 INFO  controller.BookDetailController : Book deleted: 15 haldo 0 1 Unknown null null
+10:27:02.506 INFO  controller.MenuController : Add Author selected from menu bar.
+10:27:16.425 INFO  database.AuthorTableGateway : New record inserted at row 36
+10:27:16.426 INFO  model.Author : Model saved: 36 New Author 2018-02-25 U null
+10:27:19.063 INFO  controller.AuthorDetailController : Author deleted: 36 New Author 2018-02-25 U null
+10:27:25.378 INFO  controller.MenuController : Book List View selected from menu bar.
+10:27:28.123 INFO  controller.BookListController : 14 hi 0 1 Unknown null 2018-03-09 clicked.
+10:27:29.501 INFO  controller.BookDetailController : Book deleted: 14 hi 0 1 Unknown null 2018-03-09
+10:27:31.358 INFO  controller.BookListController : 13 Good Book 0 1 Unknown null 2018-03-09 clicked.
+10:27:32.985 INFO  controller.BookDetailController : Book deleted: 13 Good Book 0 1 Unknown null 2018-03-09
+10:27:34.012 INFO  controller.BookListController : 12 Sad Book 1930 1 Unknown null 2018-03-09 clicked.
+10:27:34.861 INFO  controller.BookDetailController : Book deleted: 12 Sad Book 1930 1 Unknown null 2018-03-09
+10:27:36.166 INFO  controller.BookListController : 11 Huge Book 0 1 Unknown null 2018-03-09 clicked.
+10:27:37.252 INFO  controller.BookDetailController : Book deleted: 11 Huge Book 0 1 Unknown null 2018-03-09
+10:27:38.198 INFO  controller.BookListController : 10 NEWW 0 1 Unknown null 2018-03-09 clicked.
+10:27:39.518 INFO  controller.BookDetailController : Book deleted: 10 NEWW 0 1 Unknown null 2018-03-09
+10:27:41.574 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+10:27:45.003 INFO  controller.BookDetailController : Audit Trail clicked.
+10:27:49.596 INFO  controller.BookAuditTrailController : Back button clicked
+10:27:54.613 INFO  controller.MenuController : Book List View selected from menu bar.
+10:27:55.698 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+10:27:57.034 INFO  controller.BookDetailController : Audit Trail clicked.
+10:27:57.051 ERROR database.BookTableGateway : Get Books SQL query failed
+10:27:57.052 ERROR view.MainViewChange : Error changing center view.
+10:27:57.052 ERROR controller.BookDetailController : Error loading book audit trail.
+10:27:58.441 INFO  controller.BookDetailController : Audit Trail clicked.
+10:27:58.455 ERROR database.BookTableGateway : Get Books SQL query failed
+10:27:58.456 ERROR view.MainViewChange : Error changing center view.
+10:27:58.456 ERROR controller.BookDetailController : Error loading book audit trail.
+10:28:01.349 INFO  controller.MenuController : Book List View selected from menu bar.
+10:28:02.291 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+10:28:03.253 INFO  controller.BookDetailController : Audit Trail clicked.
+10:28:22.277 INFO  controller.MenuController : Add Book selected from menu bar.
+10:28:23.410 INFO  controller.BookDetailController : Audit Trail clicked.
+10:28:25.085 ERROR controller.BookDetailController : User attempted to visit audit trail view without saving book.
+13:49:28.618 INFO  controller.MenuController : Book List View selected from menu bar.
+13:49:34.193 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:49:35.767 INFO  controller.BookDetailController : Audit Trail clicked.
+13:49:40.827 INFO  controller.MenuController : Book List View selected from menu bar.
+13:49:41.823 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+13:49:42.938 INFO  controller.BookDetailController : Audit Trail clicked.
+13:49:48.924 INFO  controller.MenuController : Book List View selected from menu bar.
+13:49:50.810 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+13:49:52.578 INFO  controller.BookDetailController : Audit Trail clicked.
+13:49:52.600 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:49:52.601 ERROR view.MainViewChange : Error changing center view.
+13:49:52.601 ERROR controller.BookDetailController : Error loading book audit trail.
+13:50:04.282 INFO  controller.BookDetailController : Audit Trail clicked.
+13:50:04.301 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:50:04.302 ERROR view.MainViewChange : Error changing center view.
+13:50:04.302 ERROR controller.BookDetailController : Error loading book audit trail.
+13:50:14.613 INFO  controller.MenuController : Add Book selected from menu bar.
+13:50:16.392 INFO  controller.BookDetailController : Audit Trail clicked.
+13:50:17.628 ERROR controller.BookDetailController : User attempted to visit audit trail view without saving book.
+13:50:21.254 INFO  controller.MenuController : Book List View selected from menu bar.
+13:50:24.434 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+13:50:27.409 INFO  controller.BookDetailController : Audit Trail clicked.
+13:50:27.427 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:50:27.428 ERROR view.MainViewChange : Error changing center view.
+13:50:27.428 ERROR controller.BookDetailController : Error loading book audit trail.
+13:55:05.564 INFO  controller.MenuController : Book List View selected from menu bar.
+13:55:06.801 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+13:55:07.835 INFO  controller.BookDetailController : Audit Trail clicked.
+13:55:11.900 INFO  controller.MenuController : Book List View selected from menu bar.
+13:55:12.999 INFO  controller.BookListController : 6 Hugh Book 1950 1 Unknown null 2018-03-08 clicked.
+13:55:13.772 INFO  controller.BookDetailController : Audit Trail clicked.
+13:55:13.794 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:55:13.795 ERROR view.MainViewChange : Error changing center view.
+13:55:13.796 ERROR controller.BookDetailController : Error loading book audit trail.
+13:55:34.353 INFO  database.BookTableGateway : New book audit record inserted at row 19
+13:55:34.354 INFO  controller.BookDetailController : Publisher changed from 1 Unknown to 2 Simon and Schuster
+13:55:34.387 INFO  book.Book : Model saved: 6 Hugh Book 1950 2 Simon and Schuster null 2018-03-08
+13:55:40.757 INFO  controller.BookDetailController : Audit Trail clicked.
+13:55:40.777 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:55:40.777 ERROR view.MainViewChange : Error changing center view.
+13:55:40.778 ERROR controller.BookDetailController : Error loading book audit trail.
+13:55:40.850 INFO  controller.BookDetailController : Audit Trail clicked.
+13:55:40.865 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:55:40.865 ERROR view.MainViewChange : Error changing center view.
+13:55:40.866 ERROR controller.BookDetailController : Error loading book audit trail.
+13:55:45.055 INFO  controller.MenuController : Book List View selected from menu bar.
+13:55:46.052 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+13:55:50.802 INFO  database.BookTableGateway : New book audit record inserted at row 20
+13:55:50.803 INFO  controller.BookDetailController : Year Published changed from 2003 to 2002
+13:55:50.853 INFO  book.Book : Model saved: 2 Down and Out in the Magic Kingdom 2002 2 Simon and Schuster 0-7653-0436-8 2018-03-02
+13:55:51.944 INFO  controller.BookDetailController : Audit Trail clicked.
+13:55:51.963 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:55:51.964 ERROR view.MainViewChange : Error changing center view.
+13:55:51.964 ERROR controller.BookDetailController : Error loading book audit trail.
+13:56:01.088 INFO  database.BookTableGateway : New book audit record inserted at row 21
+13:56:01.089 INFO  controller.BookDetailController : Year Published changed from 2002 to 2003
+13:56:01.122 INFO  book.Book : Model saved: 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02
+13:56:05.084 INFO  controller.BookDetailController : Audit Trail clicked.
+13:56:05.104 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:56:05.105 ERROR view.MainViewChange : Error changing center view.
+13:56:05.106 ERROR controller.BookDetailController : Error loading book audit trail.
+13:57:10.804 INFO  controller.MenuController : Book List View selected from menu bar.
+13:57:12.739 INFO  controller.BookListController : 6 Hugh Book 1950 2 Simon and Schuster null 2018-03-08 clicked.
+13:57:13.755 INFO  controller.BookDetailController : Audit Trail clicked.
+13:57:13.781 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:57:13.782 ERROR view.MainViewChange : Error changing center view.
+13:57:13.782 ERROR controller.BookDetailController : Error loading book audit trail.
+13:57:26.413 INFO  controller.MenuController : Author List View selected from menu bar.
+13:57:28.398 INFO  controller.AuthorListController : 32 Shirley Jackson 1916-12-14 F http://shirleyjackson.org/ clicked.
+13:57:31.179 INFO  controller.MenuController : Book List View selected from menu bar.
+13:57:32.035 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+13:57:32.913 INFO  controller.BookDetailController : Audit Trail clicked.
+13:57:32.931 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:57:32.932 ERROR view.MainViewChange : Error changing center view.
+13:57:32.932 ERROR controller.BookDetailController : Error loading book audit trail.
+13:59:06.028 INFO  controller.MenuController : Book List View selected from menu bar.
+13:59:07.406 INFO  controller.BookListController : 6 Hugh Book 1950 2 Simon and Schuster null 2018-03-08 clicked.
+13:59:08.815 INFO  controller.BookDetailController : Audit Trail clicked.
+13:59:08.838 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:59:08.839 ERROR view.MainViewChange : Error changing center view.
+13:59:08.839 ERROR controller.BookDetailController : Error loading book audit trail.
+13:59:12.176 INFO  controller.MenuController : Book List View selected from menu bar.
+13:59:13.410 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+13:59:14.409 INFO  controller.BookDetailController : Audit Trail clicked.
+13:59:14.428 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+13:59:14.429 ERROR view.MainViewChange : Error changing center view.
+13:59:14.429 ERROR controller.BookDetailController : Error loading book audit trail.
+13:59:33.175 INFO  controller.MenuController : Book List View selected from menu bar.
+14:01:20.783 INFO  controller.MenuController : Book List View selected from menu bar.
+14:01:21.981 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:01:22.854 INFO  controller.BookDetailController : Audit Trail clicked.
+14:01:31.701 INFO  controller.MenuController : Book List View selected from menu bar.
+14:01:32.918 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:01:53.632 INFO  controller.MenuController : Book List View selected from menu bar.
+14:01:54.827 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:01:55.810 INFO  controller.BookDetailController : Audit Trail clicked.
+14:01:55.836 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:01:55.837 ERROR view.MainViewChange : Error changing center view.
+14:01:55.838 ERROR controller.BookDetailController : Error loading book audit trail.
+14:02:01.092 INFO  controller.MenuController : Book List View selected from menu bar.
+14:02:02.420 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:02:03.528 INFO  controller.BookDetailController : Audit Trail clicked.
+14:02:08.000 INFO  controller.MenuController : Book List View selected from menu bar.
+14:02:08.968 INFO  controller.BookListController : 6 Hugh Book 1950 2 Simon and Schuster null 2018-03-08 clicked.
+14:02:10.793 INFO  controller.BookDetailController : Audit Trail clicked.
+14:02:10.815 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:02:10.816 ERROR view.MainViewChange : Error changing center view.
+14:02:10.817 ERROR controller.BookDetailController : Error loading book audit trail.
+14:02:11.121 INFO  controller.BookDetailController : Audit Trail clicked.
+14:02:11.139 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:02:11.140 ERROR view.MainViewChange : Error changing center view.
+14:02:11.141 ERROR controller.BookDetailController : Error loading book audit trail.
+14:02:12.075 INFO  controller.BookDetailController : Audit Trail clicked.
+14:02:12.092 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:02:12.092 ERROR view.MainViewChange : Error changing center view.
+14:02:12.093 ERROR controller.BookDetailController : Error loading book audit trail.
+14:02:17.717 INFO  controller.MenuController : Book List View selected from menu bar.
+14:02:18.670 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:02:19.402 INFO  controller.BookDetailController : Audit Trail clicked.
+14:10:41.315 INFO  controller.MenuController : Book List View selected from menu bar.
+14:10:43.973 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:10:45.979 INFO  controller.BookDetailController : Audit Trail clicked.
+14:10:49.339 INFO  controller.MenuController : Book List View selected from menu bar.
+14:10:51.316 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:10:53.041 INFO  controller.BookDetailController : Audit Trail clicked.
+14:10:53.061 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:10:53.062 ERROR view.MainViewChange : Error changing center view.
+14:10:53.062 ERROR controller.BookDetailController : Error loading book audit trail.
+14:21:12.094 INFO  controller.MenuController : Book List View selected from menu bar.
+14:21:15.022 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:21:17.536 INFO  controller.BookDetailController : Audit Trail clicked.
+14:21:17.561 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:21:17.562 ERROR view.MainViewChange : Error changing center view.
+14:21:17.562 ERROR controller.BookDetailController : Error loading book audit trail.
+14:36:11.846 INFO  controller.MenuController : Book List View selected from menu bar.
+14:36:13.302 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:36:15.042 INFO  controller.BookDetailController : Audit Trail clicked.
+14:36:15.066 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:36:15.067 ERROR view.MainViewChange : Error changing center view.
+14:36:15.067 ERROR controller.BookDetailController : Error loading book audit trail.
+14:39:04.739 INFO  controller.MenuController : Book List View selected from menu bar.
+14:39:06.272 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:39:07.498 INFO  controller.BookDetailController : Audit Trail clicked.
+14:39:07.525 ERROR database.BookTableGateway : Get Book Audit Trails SQL query failed
+14:39:07.528 ERROR view.MainViewChange : Error changing center view.
+14:42:09.104 INFO  controller.MenuController : Book List View selected from menu bar.
+14:42:11.427 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:42:12.749 INFO  controller.BookDetailController : Audit Trail clicked.
+14:42:18.789 INFO  controller.MenuController : Book List View selected from menu bar.
+14:42:21.380 INFO  controller.BookListController : 6 Hugh Book 1950 2 Simon and Schuster null 2018-03-08 clicked.
+14:42:22.998 INFO  controller.BookDetailController : Audit Trail clicked.
+14:43:17.477 INFO  controller.MenuController : Book List View selected from menu bar.
+14:43:18.485 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:43:19.769 INFO  controller.BookDetailController : Audit Trail clicked.
+14:44:46.015 INFO  controller.MenuController : Book List View selected from menu bar.
+14:44:51.439 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:44:52.905 INFO  controller.BookDetailController : Audit Trail clicked.
+14:45:14.973 INFO  controller.MenuController : Book List View selected from menu bar.
+14:45:16.148 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:45:18.171 INFO  controller.BookDetailController : Audit Trail clicked.
+14:46:01.344 INFO  controller.MenuController : Book List View selected from menu bar.
+14:46:02.911 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:46:06.497 INFO  controller.BookDetailController : Audit Trail clicked.
+14:47:06.580 INFO  controller.MenuController : Book List View selected from menu bar.
+14:47:07.716 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:47:09.159 INFO  controller.BookDetailController : Audit Trail clicked.
+14:47:24.045 INFO  controller.MenuController : Book List View selected from menu bar.
+14:47:25.462 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:47:26.381 INFO  controller.BookDetailController : Audit Trail clicked.
+14:48:20.563 INFO  controller.MenuController : Book List View selected from menu bar.
+14:48:22.009 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:48:24.250 INFO  controller.BookDetailController : Audit Trail clicked.
+14:48:28.783 INFO  controller.MenuController : Book List View selected from menu bar.
+14:48:29.980 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:48:31.953 INFO  controller.BookDetailController : Audit Trail clicked.
+14:48:34.031 INFO  controller.BookAuditTrailController : Back button clicked
+14:48:35.046 INFO  controller.BookDetailController : Audit Trail clicked.
+14:49:19.197 INFO  controller.MenuController : Book List View selected from menu bar.
+14:49:21.417 INFO  controller.BookListController : 2 Down and Out in the Magic Kingdom 2003 2 Simon and Schuster 0-7653-0436-8 2018-03-02 clicked.
+14:49:22.829 INFO  controller.BookDetailController : Audit Trail clicked.
+14:49:28.878 INFO  controller.MenuController : Book List View selected from menu bar.
+14:49:30.058 INFO  controller.BookListController : 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02 clicked.
+14:49:34.039 INFO  database.BookTableGateway : New book audit record inserted at row 22
+14:49:34.040 INFO  controller.BookDetailController : Year Published changed from 1962 to 1963
+14:49:34.073 INFO  book.Book : Model saved: 1 We Have Always Lived in the Castle 1963 1 Unknown 0143039970 2018-03-02
+14:49:37.124 INFO  database.BookTableGateway : New book audit record inserted at row 23
+14:49:37.125 INFO  controller.BookDetailController : Year Published changed from 1963 to 1962
+14:49:37.174 INFO  book.Book : Model saved: 1 We Have Always Lived in the Castle 1962 1 Unknown 0143039970 2018-03-02
+14:49:38.064 INFO  controller.BookDetailController : Audit Trail clicked.
+14:50:04.255 INFO  controller.MenuController : Book List View selected from menu bar.
+14:50:05.747 INFO  controller.BookListController : 6 Hugh Book 1950 2 Simon and Schuster null 2018-03-08 clicked.
+14:50:26.131 INFO  database.BookTableGateway : New book audit record inserted at row 24
+14:50:26.132 INFO  controller.BookDetailController : Title changed from Hugh Book to Huge Book
+14:50:26.172 INFO  database.BookTableGateway : New book audit record inserted at row 25
+14:50:26.173 INFO  controller.BookDetailController : Summary changed from new summary to It's more of a tome, really.
+14:50:26.206 INFO  book.Book : Model saved: 6 Huge Book 1950 2 Simon and Schuster null 2018-03-08
+14:50:37.736 INFO  controller.BookDetailController : Audit Trail clicked.
